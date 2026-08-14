@@ -1,0 +1,31 @@
+
+{
+  "categories": [
+    { "id": "muebles-y-hogar", "name": "Muebles para tu Hogar", "subcategories": [
+      { "id": "amueblado-de-sala", "name": "Amueblado de sala", "icon": "🛋️" },
+      { "id": "comedor", "name": "Comedor", "icon": "🍽️" },
+      { "id": "camas", "name": "Camas", "icon": "🛏️" },
+      { "id": "cabeceras", "name": "Cabeceras", "icon": "🛌" },
+      { "id": "roperos", "name": "Roperos", "icon": "🚪" },
+      { "id": "trinchantes", "name": "Trinchantes", "icon": "🗄️" },
+      { "id": "modulares", "name": "Modulares", "icon": "📺" }
+    ]},
+    { "id": "electronica-y-tecnologia", "name": "Electrónica y Tecnología", "subcategories": [
+      { "id": "audio-y-video", "name": "Audio y video", "icon": "🔊" },
+      { "id": "televisores", "name": "Televisores", "icon": "🖥️" },
+      { "id": "telefonos", "name": "Teléfonos", "icon": "📱" }
+    ]},
+    { "id": "electrodomesticos-de-cocina", "name": "Electrodomésticos de Cocina", "subcategories": [
+      { "id": "estufa", "name": "Estufa", "icon": "🔥" },
+      { "id": "refrigeradora", "name": "Refrigeradora", "icon": "🧊" },
+      { "id": "microondas", "name": "Microondas", "icon": "🍲" },
+      { "id": "licuadora", "name": "Licuadora", "icon": "🥤" }
+    ]},
+    { "id": "electrodomesticos-de-hogar", "name": "Electrodomésticos de Hogar", "subcategories": [
+      { "id": "lavadora", "name": "Lavadora", "icon": "🧺" }
+    ]},
+    { "id": "vehiculos", "name": "Vehículos", "subcategories": [
+      { "id": "motos-freedom", "name": "Motos Freedom", "icon": "🏍️" }
+    ]}
+  ]
+}

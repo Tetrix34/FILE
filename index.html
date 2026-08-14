@@ -1,0 +1,273 @@
+
+<!DOCTYPE html>
+<html lang="es">
+  <head>
+    <meta charset="UTF-8" />
+    <link rel="icon" type="image/jpeg" href="https://res.cloudinary.com/dbc6tihw1/image/upload/v1711609802/484572438_971815318422480_2820434675311835023_n_1_kl9pyl.jpg" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>La Casita - Muebles y Hogar</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@0,400..900;1,400..900&display=swap" rel="stylesheet">
+    <script src="https://cdn.tailwindcss.com"></script>
+    <script>
+      tailwind.config = {
+        theme: {
+          extend: {
+            colors: {
+              amber: {
+                300: '#FFD166', /* Vibrant Gold-Yellow */
+                400: '#FCA311', /* Bono 14 Gold-Orange */
+                500: '#F39C12', /* Gold-500 */
+                600: '#E67E22', /* Gold-600 */
+                700: '#D35400', /* Gold-700 */
+              },
+              navy: {
+                800: '#1E2B45', /* Medium Navy */
+                900: '#131E31', /* Rich Dark Navy */
+                950: '#0A111C', /* Darkest Navy */
+              }
+            }
+          }
+        }
+      }
+    </script>
+    <style>
+      /* Custom overrides based on the Bono 14 Mundial graphic (Dark Navy, Vibrant Teal, and Gold/Orange) */
+      body {
+        background-color: #EBF2F7 !important; /* Fresh light blue-gray background */
+        background-image: linear-gradient(rgba(12, 148, 139, 0.02) 50%, transparent 50%) !important;
+        background-size: 100% 160px !important; /* Extremely elegant alternating soccer pitch lawn stripes */
+      }
+      .bg-\[\#0A1D37\] {
+        background-color: #131E31 !important; /* Rich Dark Navy instead of stadium green */
+      }
+      .bg-\[\#0E2954\] {
+        background-color: #1E2B45 !important; /* Medium Navy */
+      }
+      .bg-\[\#051021\] {
+        background-color: #0A111C !important; /* Darkest Navy */
+      }
+      .bg-\[\#EAF4F7\] {
+        background-color: #EBF2F7 !important; /* Soft light blue-gray */
+      }
+      .text-\[\#0A1D37\] {
+        color: #131E31 !important;
+      }
+      .text-\[\#1C2C42\] {
+        color: #1E2B45 !important;
+      }
+      .border-\[\#051021\] {
+        border-color: #0A111C !important;
+      }
+      .border-\[\#133C7B\] {
+        border-color: #1E2B45 !important;
+      }
+      .hover\:bg-\[\#133C7B\]:hover {
+        background-color: #1E2B45 !important;
+      }
+      .hover\:bg-\[\#0A1D37\]\/20:hover {
+        background-color: rgba(19, 30, 49, 0.2) !important;
+      }
+      .hover\:bg-\[\#09829D\]\/10:hover {
+        background-color: rgba(12, 148, 139, 0.1) !important;
+      }
+      .hover\:text-\[\#09829D\]:hover {
+        color: #0C948B !important;
+      }
+      .focus\:ring-\[\#09829D\]:focus {
+        --tw-ring-color: #0C948B !important;
+      }
+      .bg-\[\#09829D\] {
+        background-color: #0C948B !important; /* Vibrant Bono 14 Teal */
+      }
+      .bg-\[\#09829D\]\/10 {
+        background-color: rgba(12, 148, 139, 0.1) !important;
+      }
+      .text-\[\#09829D\] {
+        color: #0C948B !important;
+      }
+      .border-\[\#00A89F\]\/40 {
+        border-color: rgba(12, 148, 139, 0.4) !important;
+      }
+      .border-\[\#09829D\]\/20 {
+        border-color: rgba(12, 148, 139, 0.2) !important;
+      }
+      .border-\[\#09829D\]\/25 {
+        border-color: rgba(12, 148, 139, 0.25) !important;
+      }
+
+      /* Custom scrollbar matching the Navy & Gold theme */
+      ::-webkit-scrollbar {
+        width: 10px;
+        height: 10px;
+      }
+      ::-webkit-scrollbar-track {
+        background: #131E31; /* Dark navy track */
+      }
+      ::-webkit-scrollbar-thumb {
+        background: #FCA311; /* Bono 14 Gold */
+        border-radius: 5px;
+        border: 2px solid #131E31;
+      }
+      ::-webkit-scrollbar-thumb:hover {
+        background: #F39C12; /* Darker Gold */
+      }
+      /* Custom animations for modal */
+      @keyframes fadeInModal {
+        from { opacity: 0; }
+        to { opacity: 1; }
+      }
+      @keyframes fadeOutModal {
+        from { opacity: 1; }
+        to { opacity: 0; }
+      }
+      @keyframes scaleUp {
+        from { transform: scale(0.95); opacity: 0; }
+        to { transform: scale(1); opacity: 1; }
+      }
+      @keyframes scaleDown {
+        from { transform: scale(1); opacity: 1; }
+        to { transform: scale(0.95); opacity: 0; }
+      }
+      .animate-fadeInModal { animation: fadeInModal 0.3s ease-out forwards; }
+      .animate-fadeOutModal { animation: fadeOutModal 0.3s ease-out forwards; }
+      .animate-scaleUp { animation: scaleUp 0.3s ease-out forwards; }
+      .animate-scaleDown { animation: scaleDown 0.3s ease-out forwards; }
+
+      /* Marquee / Ticker text animation */
+      @keyframes marqueeAnimation {
+        0% { transform: translateX(0%); }
+        100% { transform: translateX(-33.3333%); }
+      }
+      .animate-marquee {
+        display: inline-flex;
+        animation: marqueeAnimation 30s linear infinite;
+      }
+      .animate-marquee:hover {
+        animation-play-state: paused;
+      }
+
+      /* Animation for view changes */
+      @keyframes fadeInView {
+        from { opacity: 0; transform: translateY(1rem); }
+        to { opacity: 1; transform: translateY(0); }
+      }
+      .animate-view-change { animation: fadeInView 0.4s ease-out forwards; }
+
+      /* Staggered entry animations */
+      @keyframes slideUpFadeIn {
+        from {
+          opacity: 0;
+          transform: translateY(20px);
+        }
+        to {
+          opacity: 1;
+          transform: translateY(0);
+        }
+      }
+      .animate-slideUpFadeIn {
+        animation: slideUpFadeIn 0.6s ease-out forwards;
+        opacity: 0; /* Start hidden */
+      }
+      
+      /* Animation for filter button glow (Gold) */
+      @keyframes pulse-glow {
+        0%, 100% { box-shadow: 0 0 8px rgba(234, 179, 8, 0.2); }
+        50% { box-shadow: 0 0 16px rgba(234, 179, 8, 0.5); }
+      }
+      .animate-pulse-glow {
+        animation: pulse-glow 2.5s infinite ease-in-out;
+      }
+
+      /* Animation for voice search input glow */
+      @keyframes pulse-gold-glow {
+        0%, 100% { 
+          box-shadow: 0 0 8px rgba(234, 179, 8, 0.3); 
+          border-color: rgba(234, 179, 8, 0.5); 
+        }
+        50% { 
+          box-shadow: 0 0 16px rgba(234, 179, 8, 0.6); 
+          border-color: rgba(234, 179, 8, 1);
+        }
+      }
+      .animate-pulse-gold-glow {
+        animation: pulse-gold-glow 2s infinite ease-in-out;
+      }
+
+      /* Animation for idle logo pulse */
+      @keyframes idle-pulse {
+        0%, 100% {
+          transform: scale(1);
+          filter: drop-shadow(0 0 2px rgba(234, 179, 8, 0.2));
+        }
+        50% {
+          transform: scale(1.03);
+          filter: drop-shadow(0 0 8px rgba(234, 179, 8, 0.5));
+        }
+      }
+      .animate-idle-pulse {
+        animation: idle-pulse 2.5s infinite ease-in-out;
+      }
+
+      /* Animation for call button ripple effect */
+      @keyframes pulse-red-ripple {
+        0% {
+          transform: scale(1);
+          box-shadow: 0 0 0 0 rgba(185, 28, 28, 0.4);
+        }
+        70% {
+          transform: scale(1.03);
+          box-shadow: 0 0 0 10px rgba(185, 28, 28, 0);
+        }
+        100% {
+          transform: scale(1);
+          box-shadow: 0 0 0 0 rgba(185, 28, 28, 0);
+        }
+      }
+      .animate-pulse-red-ripple {
+        animation: pulse-red-ripple 2s infinite ease-in-out;
+      }
+
+      /* Professional glow for gold buttons */
+      @keyframes pulse-professional-glow {
+        0%, 100% {
+          transform: scale(1);
+          box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.1), 0 0 5px rgba(234, 179, 8, 0.3);
+        }
+        50% {
+          transform: scale(1.05);
+          box-shadow: 0 10px 15px -3px rgba(0, 0, 0, 0.1), 0 0 15px rgba(234, 179, 8, 0.6);
+        }
+      }
+      .animate-pulse-professional-glow {
+        animation: pulse-professional-glow 2.5s infinite ease-in-out;
+      }
+
+      .font-playfair {
+        font-family: 'Playfair Display', serif;
+      }
+      
+      .shadow-text {
+        text-shadow: 1px 1px 4px rgba(0,0,0,0.6);
+      }
+    </style>
+  <script type="importmap">
+{
+  "imports": {
+    "@google/genai": "https://aistudiocdn.com/@google/genai@^1.27.0",
+    "react-dom/": "https://aistudiocdn.com/react-dom@^19.2.0/",
+    "react/": "https://aistudiocdn.com/react@^19.2.0/",
+    "react": "https://aistudiocdn.com/react@^19.2.0",
+    "@vitejs/plugin-react": "https://aistudiocdn.com/@vitejs/plugin-react@^5.1.0",
+    "vite": "https://aistudiocdn.com/vite@^7.1.12",
+    "@netlify/functions": "https://aistudiocdn.com/@netlify/functions@^5.0.1"
+  }
+}
+</script>
+</head>
+  <body class="bg-[#F4F8FA]">
+    <div id="root"></div>
+    <script type="module" src="/index.tsx"></script>
+  </body>
+</html>

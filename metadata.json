@@ -1,0 +1,7 @@
+{
+  "name": "Remix CASITA NUEVO DISEÑO 14 O DISEÑO NORMAL, EL ANTIGUO SE LLAMABA UFC",
+  "description": "Un catálogo de productos online visualmente atractivo y responsivo. Los datos de los productos son generados dinámicamente por la API de Gemini al cargar la página, creando un catálogo único y diverso cada vez.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}

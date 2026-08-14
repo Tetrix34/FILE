@@ -1,0 +1,2129 @@
+{
+  "products": [
+    {
+      "id": 37,
+      "name": "Sala Florencia, FAMESA",
+      "description": "Un diseño clásico y elegante que aporta sofisticación a tu hogar.",
+      "longDescription": "La Sala Florencia de FAMESA es la definición de elegancia. Con un diseño atemporal y materiales de primera calidad, este juego de sala se convertirá en el centro de todas las miradas. Sus cómodos asientos son perfectos para disfrutar de largas conversaciones y momentos en familia.",
+      "price": 0,
+      "category": "amueblado-de-sala",
+      "imageUrl": "https://res.cloudinary.com/dbc6tihw1/image/upload/v1713067818/SALA_FLORENCIA_FAMESA_nmx5ft.png"
+    },
+    {
+      "id": 38,
+      "name": "Amueblado Arti 3-1-1",
+      "description": "Configuración clásica y versátil para optimizar tu espacio.",
+      "longDescription": "Este amueblado con configuración 3-1-1 (sofá, loveseat y sillón) es la solución perfecta para cualquier sala. Ofrece amplios asientos para toda la familia y se adapta fácilmente a diferentes distribuciones. Su tapizado resistente garantiza una larga vida útil.",
+      "price": 2715,
+      "category": "amueblado-de-sala",
+      "imageUrl": "https://res.cloudinary.com/dbc6tihw1/image/upload/v1713067818/amueblado_3-1-1_i9ol03.png"
+    },
+    {
+      "id": 39,
+      "name": "Amueblado Gaby 3-1-1 Caprisa",
+      "description": "Estilo contemporáneo y confort superior de la línea Caprisa.",
+      "longDescription": "El modelo Gaby de Caprisa conbina un diseño moderno con un confort exceptional. Este juego 3-1-1 destaca por sus líneas limpias y su tapicería de alta calidad, que invita al descanso. Es la elección ideal para quienes buscan un toque de modernidad y estilo.",
+      "price": 2949,
+      "category": "amueblado-de-sala",
+      "imageUrl": "https://res.cloudinary.com/dbc6tihw1/image/upload/v1713067816/AMUEBLADO_GABY_3-1-1_CAPRISA_qzygqd.png"
+    },
+    {
+      "id": 40,
+      "name": "Amueblado Arti 3-2-1",
+      "description": "La combinación perfecta de asientos para familias numerosas.",
+      "longDescription": "Con un sofá de 3 plazas, un loveseat de 2 y un sillón individual, este amueblado 3-2-1 es ideal para familias grandes o para quienes disfrutan recibir invitados. Su diseño robusto y cómodo asegura que todos tengan un lugar especial en la sala.",
+      "price": 3115,
+      "category": "amueblado-de-sala",
+      "imageUrl": "https://res.cloudinary.com/dbc6tihw1/image/upload/v1713067812/AMUEBLADO_3-2-1_y0bm9n.png"
+    },
+    {
+      "id": 41,
+      "name": "Amueblado Arti Patas Cromadas",
+      "description": "Un toque de brillo y modernidad con elegantes patas cromadas.",
+      "longDescription": "Esta sala se distingue por su diseño contemporáneo, realzado por unas estilizadas patas cromadas que le dan un aspecto ligero y sofisticado. Es la pieza perfecta para quienes buscan un estilo audaz y moderno sin sacrificar la comodidad.",
+      "price": 3689,
+      "category": "amueblado-de-sala",
+      "imageUrl": "https://res.cloudinary.com/dbc6tihw1/image/upload/v1713067811/SALA_CON_PATAS_CROMADAS_qxm0uh.png"
+    },
+    {
+      "id": 42,
+      "name": "Sala Italia Clasica Famesa",
+      "description": "El encanto del diseño italiano clásico, fabricado por Famesa.",
+      "longDescription": "Inspirada en el diseño clásico italiano, la Sala Italia de Famesa aporta un aire de elegancia y tradición a tu hogar. Sus formas curvas y su tapizado de alta calidad la convierten en una pieza atemporal que nunca pasará de moda.",
+      "price": 0,
+      "category": "amueblado-de-sala",
+      "imageUrl": "https://res.cloudinary.com/dbc6tihw1/image/upload/v1713067814/SALA_ITALIA_CLASICA_FAMESA_z1ymty.png"
+    },
+    {
+      "id": 43,
+      "name": "Sala Italia Plus Famesa",
+      "description": "Confort extra y un diseño refinado en la versión Plus de Famesa.",
+      "longDescription": "La Sala Italia Plus lleva el confort a otro nivel. Con cojines más mullidos y un diseño mejorado, esta versión ofrece una experiencia de descanso superior. Es la combinación perfecta de la elegancia clásica y el confort moderno que buscas para tu hogar.",
+      "price": 0,
+      "category": "amueblado-de-sala",
+      "imageUrl": "https://res.cloudinary.com/dbc6tihw1/image/upload/v1713067811/SALA_ITALIA_PLUS_FAMESA_lpboob.png"
+    },
+    {
+      "id": 44,
+      "name": "Amueblado Arti 3-2-1 Reclinable",
+      "description": "Máximo relax con asientos reclinables para toda la familia.",
+      "longDescription": "Disfruta del cine en casa como nunca antes con este amueblado reclinable. Tanto el sofá como el loveseat y el sillón cuentan con mecanismos para reclinar el respaldo y elevar los pies, ofreciendo una personalización total de tu confort.",
+      "price": 4140,
+      "category": "amueblado-de-sala",
+      "imageUrl": "https://res.cloudinary.com/dbc6tihw1/image/upload/v1713067814/AMUEBLADO_3-2-1_RECLINABLE_oksf2s.png"
+    },
+    {
+      "id": 45,
+      "name": "Amueblado Arti Con Baul Reclinable",
+      "description": "Funcionalidad y confort: reclinable y con espacio de almacenamiento.",
+      "longDescription": "Este innovador amueblado no solo ofrece la comodidad de los asientos reclinables, sino que también incluye un práctico baúl en la consola central, ideal para guardar mantas, controles remotos o revistas. La solución perfecta para mantener tu sala ordenada y cómoda.",
+      "price": 4640,
+      "category": "amueblado-de-sala",
+      "imageUrl": "https://res.cloudinary.com/dbc6tihw1/image/upload/v1713067817/SALA_CON_BAUL_Y_RECLINABLE_qiesye.png"
+    },
+    {
+      "id": 46,
+      "name": "Sala Ross Camape Clasica Famesa",
+      "description": "Elegancia superior y diseño imponente de la línea Camape de Famesa.",
+      "longDescription": "La Sala Ross Camape es la máxima expresión de lujo y confort. Con un diseño clásico y robusto, esta pieza de Famesa está pensada para ser el centro de atención de cualquier espacio. Sus acabados de alta calidad y su comodidad inigualable la convierten en una inversión para toda la vida.",
+      "price": 0,
+      "category": "amueblado-de-sala",
+      "imageUrl": "https://res.cloudinary.com/dbc6tihw1/image/upload/v1713067814/SALA_ROSS_CAMAPE_CLSICA_ego31q.png"
+    },
+    {
+      "id": 305,
+      "name": "Amueblado Arti Confort 3-2-1",
+      "description": "Diseño contemporáneo y comodidad superior para toda la familia.",
+      "longDescription": "El amueblado Arti Confort 3-2-1 redefine el descanso en el hogar con su elegante diseño y materiales premium. Ofrece un soporte excepcional y amplios asientos para disfrutar al máximo los momentos de relax y convivencia familiar.",
+      "price": 5200,
+      "category": "amueblado-de-sala",
+      "imageUrl": "https://res.cloudinary.com/dbc6tihw1/image/upload/v1782508662/Gemini_Generated_Image_7a2qdm7a2qdm7a2q_limn1k.png"
+    },
+    {
+      "id": 50,
+      "name": "Comedor de 4 Ortiz Patas Curvadas",
+      "description": "Diseño elegante con patas curvadas, ideal para 4 personas.",
+      "longDescription": "El comedor Ortiz conbina un diseño clásico con un toque moderno gracias a sus distintivas patas curvadas. Perfecto para reuniones íntimas, este conjunto para 4 personas aporta elegancia y estilo a cualquier espacio.",
+      "price": 1565,
+      "category": "comedor",
+      "imageUrl": "https://res.cloudinary.com/dbc6tihw1/image/upload/v1713076334/Comedor_de_4_Ortiz_patas_curvas_nlh2of.png"
+    },
+    {
+      "id": 51,
+      "name": "Comedor de 4 Caprisa",
+      "description": "Estilo contemporáneo y funcional para tu hogar.",
+      "longDescription": "El comedor Caprisa para 4 personas destaca por su diseño contemporáneo y su construcción robusta. Es la opción ideal para quienes buscan funcionalidad y un estilo moderno que se adapte a la vida diaria.",
+      "price": 0,
+      "category": "comedor",
+      "imageUrl": "https://res.cloudinary.com/dbc6tihw1/image/upload/v1713076341/comer_de_4_caprisa_kprgoi.png"
+    },
+    {
+      "id": 52,
+      "name": "Comedor de 4 Bolivar Enchapado de Madera",
+      "description": "Calidez y durabilidad con su acabado enchapado en madera.",
+      "longDescription": "Aporta la calidez de la madera a tu hogar con el comedor Bolivar. Su superficie enchapada no solo es hermosa, sino también resistente y fácil de mantener. Un conjunto para 4 personas que conbina tradición y durabilidad.",
+      "price": 1499,
+      "category": "comedor",
+      "imageUrl": "https://res.cloudinary.com/dbc6tihw1/image/upload/v1713076338/COMEDOR_DE_4_BOLIVAR_ENCHAPADO_DE_MADERA_obxyvy.png"
+    },
+    {
+      "id": 53,
+      "name": "Comedor de 4 Ortiz Camello",
+      "description": "Un diseño único y confortable para tus comidas diarias.",
+      "longDescription": "El comedor Camello para 4 personas se caracteriza por su diseño distintivo y su gran comodidad. Es una pieza que no pasará desapercibida y que convertirá cada comida en una experiencia especial.",
+      "price": 2065,
+      "category": "comedor",
+      "imageUrl": "https://res.cloudinary.com/dbc6tihw1/image/upload/v1713076338/COMEDOR_DE_4_CAMELLO_gxkqfk.png"
+    },
+    {
+      "id": 54,
+      "name": "Comedor de 4 Madera",
+      "description": "La belleza atemporal de la madera maciza para 4 comensales.",
+      "longDescription": "Este comedor de madera maciza para 4 personas es sinónimo de robustez y estilo atemporal. Una pieza central que aportará calidez y durabilidad a tu hogar, perfecta para disfrutar de las comidas en familia.",
+      "price": 2065,
+      "category": "comedor",
+      "imageUrl": "https://res.cloudinary.com/dbc6tihw1/image/upload/v1713076341/COMER_DE_4_MADERA_gnqb6s.png"
+    },
+    {
+      "id": 55,
+      "name": "Comedor de 6 Ortiz Patas Curvadas",
+      "description": "Amplitud y elegancia con el diseño de patas curvadas para 6 personas.",
+      "longDescription": "La versión para 6 personas del comedor Ortiz mantiene la elegancia de sus patas curvadas, ofreciendo más espacio para tus reuniones familiares y con amigos. Una pieza que conbina sofisticación y funcionalidad.",
+      "price": 1965,
+      "category": "comedor",
+      "imageUrl": "https://res.cloudinary.com/dbc6tihw1/image/upload/v1713076340/COMEDOR_DE_6_ORTIZ_PATAS_CURVADAS_is1a6e.png"
+    },
+    {
+      "id": 56,
+      "name": "Comedor de 6 Bolivar Enchapado de Madera",
+      "description": "Ideal para familias, con la durabilidad del enchapado en madera.",
+      "longDescription": "Disfruta de más espacio con el comedor Bolivar para 6 personas. Su acabado enchapado en madera le da un aspecto cálido y es muy resistente, ideal para el uso diario de una familia activa.",
+      "price": 1899,
+      "category": "comedor",
+      "imageUrl": "https://res.cloudinary.com/dbc6tihw1/image/upload/v1713076337/COMEDOR_DE_6_BOLIVAR_ENCHAPADO_DE_MADERA_ujcvgz.png"
+    },
+    {
+      "id": 57,
+      "name": "Comedor de 6 Ortiz Camello",
+      "description": "Diseño espacioso y original para 6, perfecto para reuniones.",
+      "longDescription": "El comedor Camello para 6 personas es la elección perfecta para quienes buscan un diseño original y espacio para recibir invitados. Su estilo único y su comodidad garantizan que será el centro de atención.",
+      "price": 2715,
+      "category": "comedor",
+      "imageUrl": "https://res.cloudinary.com/dbc6tihw1/image/upload/v1713076336/COMEDOR_DE_6_CAMELLO_dgdhwr.png"
+    },
+    {
+      "id": 571,
+      "name": "Comedor de 6 Ortiz madera",
+      "description": "Elegante comedor de madera maciza para 6 personas.",
+      "longDescription": "Este comedor de madera maciza para 6 personas combina durabilidad y un diseño clásico que nunca pasa de moda. Ideal para cenas familiares y reuniones, aportando un toque de calidez y distinción a tu hogar.",
+      "price": 2874,
+      "category": "comedor",
+      "imageUrl": "https://res.cloudinary.com/dbc6tihw1/image/upload/v1763076339/COMEDOR_DE_8_MADERA_rmixz5.png"
+    },
+    {
+      "id": 572,
+      "name": "Comedor de 6 Oliver Madera con vidrio",
+      "description": "Diseño moderno con tablero de vidrio y estructura de madera, para 6 personas.",
+      "longDescription": "El comedor Oliver de 6 puestos combina la elegancia y calidez de la madera con un moderno tablero de vidrio. Este diseño contemporáneo es perfecto para renovar tu espacio, brindando amplitud visual y un estilo sofisticado para tus reuniones.",
+      "price": 3675,
+      "category": "comedor",
+      "imageUrl": "https://res.cloudinary.com/dbc6tihw1/image/upload/v1782512572/Gemini_Generated_Image_hlltyyhlltyyhllt_1_modqxy.png"
+    },
+    {
+      "id": 573,
+      "name": "Comedor Arti Comfort 6 Personas",
+      "description": "Máximo confort y diseño contemporáneo de lujo para 6 personas.",
+      "longDescription": "El comedor Arti Comfort redefine las comidas en el hogar con su diseño sofisticado para 6 personas. Fabricado con materiales premium de alta resistencia, ofrece una excelente comodidad y un estilo imponente que complementará de forma ideal tu sala o comedor.",
+      "price": 4800,
+      "category": "comedor",
+      "imageUrl": "https://res.cloudinary.com/dbc6tihw1/image/upload/v1783543429/ChatGPT_Image_8_jul_2026_14_38_12_jmgm9o.png"
+    },
+    {
+      "id": 58,
+      "name": "Comedor de 8 Ortiz Patas Curvadas",
+      "description": "Máxima capacidad y elegancia para grandes celebraciones.",
+      "longDescription": "Para las grandes reuniones, el comedor Ortiz de 8 puestos es la solución perfecta. Conbina la elegancia de su diseño de patas curvadas con la amplitud necesaria para que todos tus invitados se sientan cómodos.",
+      "price": 2815,
+      "category": "comedor",
+      "imageUrl": "https://res.cloudinary.com/dbc6tihw1/image/upload/v1713076337/COMEDOR_DE_8_ORTIZ_PATAS_CURVADAS_gn1hds.png"
+    },
+    {
+      "id": 59,
+      "name": "Comedor de 8 Ortiz Camello",
+      "description": "Estilo y espacio de sobra con este comedor para 8 personas.",
+      "longDescription": "No sacrifiques el estilo por el espacio. El comedor Camello para 8 personas ofrece un diseño audaz y original con toda la capacidad que necesitas para tus eventos más importantes. Una pieza que impresiona.",
+      "price": 3415,
+      "category": "comedor",
+      "imageUrl": "https://res.cloudinary.com/dbc6tihw1/image/upload/v1713076338/COMEDOR_DE_8_CAMELLO_nn1yye.png"
+    },
+    {
+      "id": 60,
+      "name": "Comedor de 8 Ortiz madera",
+      "description": "Robusto y tradicional, un comedor de madera para 8 que durará generaciones.",
+      "longDescription": "Este comedor de madera maciza para 8 personas es una inversión en calidad y tradición. Su diseño robusto y atemporal está pensado para acoger las celebraciones más importantes y durar por generaciones.",
+      "price": 3665,
+      "category": "comedor",
+      "imageUrl": "https://res.cloudinary.com/dbc6tihw1/image/upload/v1713076339/COMEDOR_DE_8_MADERA_rmixz5.png"
+    },
+    {
+      "id": 61,
+      "name": "Radio Portatil Sony",
+      "description": "Sintoniza tus estaciones favoritas en cualquier lugar. Diseño compacto.",
+      "longDescription": "Lleva la música y las noticias contigo con esta radio portátil de Sony. Con una excelente recepción AM/FM, altavoz integrado y un diseño ligero, es la compañera perfecta para tus paseos o para tener en casa.",
+      "price": 100,
+      "category": "audio-y-video",
+      "imageUrl": "https://res.cloudinary.com/dbc6tihw1/image/upload/v1713136615/RADIO_PORTATIL_SONY_fckwlf.png"
+    },
+    {
+      "id": 62,
+      "name": "Equipo de sonido EPICS7SWB",
+      "description": "Potencia y claridad para tus fiestas. Conexión Bluetooth.",
+      "longDescription": "Anima cualquier reunión con el potente equipo de sonido EPICS7SWB. Ofrece bajos profundos y agudos claros, con conectividad Bluetooth para reproducir tu música sin cables desde cualquier dispositivo.",
+      "price": 1899,
+      "category": "audio-y-video",
+      "imageUrl": "https://res.cloudinary.com/dbc6tihw1/image/upload/v1713136586/EQUIPO_DE_SONIDO_EPICS7SWB_eklh2c.png"
+    },
+    {
+      "id": 63,
+      "name": "Equipo de sonido EPICS51sw",
+      "description": "Sonido envolvente para una experiencia inmersiva en casa.",
+      "longDescription": "El equipo de sonido EPICS51sw te sumerge en tus películas y música favoritas con su sistema de sonido envolvente. Incluye un subwoofer para bajos potentes y altavoces satélite para una claridad excepcional.",
+      "price": 1599,
+      "category": "audio-y-video",
+      "imageUrl": "https://res.cloudinary.com/dbc6tihw1/image/upload/v1713136587/EQUIPO_DE_SONIDO_EPICS51SW_bqygfm.png"
+    },
+    {
+      "id": 642,
+      "name": "Bocina Klipxtreme Nitro KBS-025GR",
+      "description": "Bocina ultraportátil con sonido nítido y potente, resistente al agua.",
+      "longDescription": "La bocina Klipxtreme Nitro KBS-025GR ofrece un sonido potente y nítido en un diseño compacto y ultraportátil. Con su resistencia al agua, es ideal para tus aventuras en exteriores, la piscina o paseos. Disfruta de la mejor calidad con la garantía de Klipxtreme.",
+      "price": 165,
+      "category": "audio-y-video",
+      "imageUrl": "https://res.cloudinary.com/dbc6tihw1/image/upload/v1713136587/BOCINA_CKLIPXTREME_NITRO_KBS-025GR_e9cmxu.png"
+    },
+    {
+      "id": 65,
+      "name": "Bocina Xiaomi IR, Bocina inteligente",
+      "description": "Controla tu hogar con la voz. Sonido de alta calidad.",
+      "longDescription": "Esta bocina inteligente de Xiaomi no solo reproduce tu música con una calidad de sonido excepcional, sino que también funciona como un centro de control para tus dispositivos inteligentes. Usa comandos de voz para preguntar, poner música y más.",
+      "price": 300,
+      "category": "audio-y-video",
+      "imageUrl": "https://res.cloudinary.com/dbc6tihw1/image/upload/v1713136614/BOCINA_XIAOMI_IR_BOCINA_INTELIGENTE_seyxfv.png"
+    },
+    {
+      "id": 641,
+      "name": "BOCINA KLIP EXTREME GROOVE SPLASH KBS-030BK",
+      "description": "Bocina resistente al agua con sonido nítido y diseño compacto.",
+      "longDescription": "La Groove Splash de Klip Extreme es perfecta para llevar tu música a cualquier lugar, incluso cerca del agua. Con certificación de resistencia al agua y un sonido sorprendentemente claro, es la compañera ideal para exteriores.",
+      "price": 165,
+      "category": "audio-y-video",
+      "imageUrl": "https://res.cloudinary.com/dbc6tihw1/image/upload/v1713136587/BOCINA_CKLIPXTREME_NITRO_KBS-025GR_e9cmxu.png"
+    },
+    {
+      "id": 66,
+      "name": "Bocina XIAMI sound Outdoor black",
+      "description": "Diseñada para el exterior, con sonido potente y batería duradera.",
+      "longDescription": "Disfruta de la mejor calidad de sonido al aire libre con la Xiaomi Sound Outdoor. Su diseño robusto y su batería de larga duración la hacen perfecta para picnics, acampadas y reuniones en el jardín.",
+      "price": 525,
+      "category": "audio-y-video",
+      "imageUrl": "https://res.cloudinary.com/dbc6tihw1/image/upload/v1713136603/Bocina_XIAMI_sound_Outdoor_black_dxjncm.png"
+    },
+    {
+      "id": 67,
+      "name": "Bocina Klipxtreme Marvel KBS-025MD-2PK",
+      "description": "Pack de dos bocinas con tus superhéroes favoritos de Marvel.",
+      "longDescription": "Los fans de Marvel amarán este pack de dos bocinas Klipxtreme. Con un diseño inspirado en los superhéroes, son perfectas para regalar o para disfrutar de un sonido estéreo conectándolas juntas.",
+      "price": 300,
+      "category": "audio-y-video",
+      "imageUrl": "https://res.cloudinary.com/dbc6tihw1/image/upload/v1713136587/Bocina_Klipxtreme_Marvel_KBS-025MD-2PK_osr3yq.png"
+    },
+    {
+      "id": 68,
+      "name": "Bocina 1 Pieza Occicell TS-M16",
+      "description": "Sonido claro y diseño minimalista para tu escritorio u oficina.",
+      "longDescription": "Esta bocina de una pieza de Occicell es la solución de audio perfecta para tu espacio de trabajo. Ofrece un sonido nítido para música y videollamadas, con un diseño elegante y compacto que no ocupa mucho espacio.",
+      "price": 0,
+      "category": "audio-y-video",
+      "imageUrl": "https://res.cloudinary.com/dbc6tihw1/image/upload/v1713136589/BOCINA_1_PIEZA_OCCICELL_kbpxca.png"
+    },
+    {
+      "id": 69,
+      "name": "Bocina Occicel Pequeña TS-T2",
+      "description": "Ultraportátil, con un sonido sorprendentemente potente para su tamaño.",
+      "longDescription": "No te dejes engañar por su tamaño. La bocina Occicel TS-T2 ofrece un sonido potente y claro en un diseño que cabe en la palma de tu mano. Ideal para llevarla en tu mochila y tener siempre buena música a tu alcance.",
+      "price": 0,
+      "category": "audio-y-video",
+      "imageUrl": "https://res.cloudinary.com/dbc6tihw1/image/upload/v1713136585/Bocina_Occicel_Peque%C3%B1a_TS-T2_bhfw1f.png"
+    },
+    {
+      "id": 70,
+      "name": "Bocina Kliptreme Oryx KBS-600, 31 W",
+      "description": "Potencia de 31W para un sonido que llena la habitación. Conectividad TWS.",
+      "longDescription": "La bocina Kliptreme Oryx ofrece 31 vatios de potencia para una experiencia auditiva robusta. Con la tecnología True Wireless Stereo (TWS), puedes conectar dos bocinas Oryx para crear un sistema estéreo inmersivo.",
+      "price": 479,
+      "category": "audio-y-video",
+      "imageUrl": "https://res.cloudinary.com/dbc6tihw1/image/upload/v1713136603/Bocina_Kliptreme_Oryx_KBS-600_31_W_sfl8vv.png"
+    },
+    {
+      "id": 71,
+      "name": "Bocina Occicell TS-6133 barra",
+      "description": "Mejora el audio de tu TV con esta elegante barra de sonido.",
+      "longDescription": "Transforma el sonido de tu televisor con la barra de sonido Occicell TS-6133. Su diseño delgado y elegante se adapta perfectamente debajo de tu pantalla, ofreciendo diálogos más claros y una experiencia de audio más rica para tus películas y series.",
+      "price": 0,
+      "category": "audio-y-video",
+      "imageUrl": "https://res.cloudinary.com/dbc6tihw1/image/upload/v1713136600/Bocina_Occicell_TS-6133_barra_a2ny51.png"
+    },
+    {
+      "id": 72,
+      "name": "Bocina M7, Occicell TS-M7",
+      "description": "Diseño moderno y sonido de alta fidelidad para los amantes de la música.",
+      "longDescription": "La bocina M7 de Occicell está diseñada para audiófilos. Ofrece una reproducción de sonido de alta fidelidad con un diseño moderno y materiales de primera calidad. Disfruta de cada matiz de tu música favorita.",
+      "price": 0,
+      "category": "audio-y-video",
+      "imageUrl": "https://res.cloudinary.com/dbc6tihw1/image/upload/v1713136603/Bocina_M7_Occicell_TS-M7_xicrgx.png"
+    },
+    {
+      "id": 73,
+      "name": "Bocina M6",
+      "description": "Sonido potente y graves profundos en un diseño robusto.",
+      "longDescription": "La bocina M6 está construida para impresionar. Con su potente salida de audio y sus bajos profundos, es ideal para quienes buscan una potencia extra. Su diseño robusto la hace duradera y confiable.",
+      "price": 0,
+      "category": "audio-y-video",
+      "imageUrl": "https://res.cloudinary.com/dbc6tihw1/image/upload/v1713136600/Bocina_M6_jnr3qh.png"
+    },
+    {
+      "id": 74,
+      "name": "Torre de Sonido Occicel",
+      "description": "El centro de tu fiesta. Potencia, luces y múltiples conexiones.",
+      "longDescription": "Conviértete en el alma de la fiesta con la torre de sonido Occicel. Ofrece una potencia impresionante, efectos de luces LED que se sincronizan con la música, y múltiples opciones de conexión, incluyendo Bluetooth, USB y entrada para micrófono.",
+      "price": 0,
+      "category": "audio-y-video",
+      "imageUrl": "https://res.cloudinary.com/dbc6tihw1/image/upload/v1713136588/Torre_de_Sonido_Occicel_cchv3g.png"
+    },
+    {
+      "id": 75,
+      "name": "Teatro DyM Grande GT-402",
+      "description": "Experiencia de cine en casa completa con este sistema de teatro.",
+      "longDescription": "El sistema de teatro en casa DyM GT-402 te ofrece una experiencia de sonido envolvente para tus películas. Incluye un potente subwoofer y altavoces satélite para recrear la atmósfera del cine en la comodidad de tu sala.",
+      "price": 865,
+      "category": "audio-y-video",
+      "imageUrl": "https://res.cloudinary.com/dbc6tihw1/image/upload/v1713140758/Teatro_DyM_Grande_GT-402_f9gwhp.png"
+    },
+    {
+      "id": 76,
+      "name": "Mini Componente DM",
+      "description": "Sonido clásico y potente con reproductor de CD y radio FM.",
+      "longDescription": "Para los que aprecian la versatilidad, este mini componente de DM lo tiene todo. Reproduce tus CDs, sintoniza la radio FM o conecta tus dispositivos a través de Bluetooth o USB. Un sistema de sonido completo en un formato compacto.",
+      "price": 0,
+      "category": "audio-y-video",
+      "imageUrl": "https://res.cloudinary.com/dbc6tihw1/image/upload/v1713136603/Mini_Componente_DM_c7dzjo.png"
+    },
+    {
+      "id": 762,
+      "name": "Barra de Sonido Klep Extreme KBS-50",
+      "description": "Barra de sonido compacta con conectividad Bluetooth para un audio mejorado.",
+      "longDescription": "La barra de sonido Klep Extreme KBS-50 (Tempo) redefine tu entretenimiento en casa. Con un diseño estilizado y conectividad inalámbrica Bluetooth, ofrece una mejora significativa en la claridad y potencia de sonido para tu televisor o dispositivos móviles.",
+      "price": 625,
+      "category": "audio-y-video",
+      "imageUrl": "https://res.cloudinary.com/dbc6tihw1/image/upload/v1782516277/KSB-050-landing_vfusww.jpg"
+    },
+    {
+      "id": 763,
+      "name": "Bocina Neeka NK-902",
+      "description": "Bocina portátil de alta potencia Neeka NK-902 con sonido dinámico y conectividad Bluetooth.",
+      "longDescription": "La bocina Neeka NK-902 ofrece una experiencia sonora envolvente con bajos potentes y agudos nítidos. Su diseño moderno y portátil la hace perfecta para reuniones, eventos y el disfrute diario de tu música favorita.",
+      "price": 1250,
+      "category": "audio-y-video",
+      "imageUrl": "https://res.cloudinary.com/dbc6tihw1/image/upload/v1786379885/Gemini_Generated_Image_vriry3vriry3vrir_tkec4p.png"
+    },
+    {
+      "id": 764,
+      "name": "Bocina Occicell Tipo Barra NS-213",
+      "description": "Barra de sonido compacta Occicell NS-213 con audio claro y diseño estilizado.",
+      "longDescription": "La bocina tipo barra Occicell NS-213 es la solución ideal para mejorar la calidad de sonido de tu televisor o computadora. Ofrece un audio equilibrado en un formato alargado y elegante que se integra perfectamente a tu espacio.",
+      "price": 575,
+      "category": "audio-y-video",
+      "imageUrl": "https://res.cloudinary.com/dbc6tihw1/image/upload/v1786379886/Gemini_Generated_Image_irx5wirx5wirx5wi_h0o5pc.png"
+    },
+    {
+      "id": 765,
+      "name": "Bocina AiLiang UF-DC6031",
+      "description": "Bocina parlante AiLiang UF-DC6031 con luces LED e iluminación para eventos.",
+      "longDescription": "Siente la música con la bocina AiLiang UF-DC6031. Cuenta con un diseño llamativo con luces LED integradas, gran fidelidad de sonido y múltiples modos de reproducción para animar cualquier ocasión.",
+      "price": 450,
+      "category": "audio-y-video",
+      "imageUrl": "https://res.cloudinary.com/dbc6tihw1/image/upload/v1786379885/Gemini_Generated_Image_yrta8wyrta8wyrta_z4qjkl.png"
+    },
+    {
+      "id": 766,
+      "name": "Bocina portatil T&G TG691",
+      "description": "Bocina ultraportátil T&G TG691 con Bluetooth y correa de transporte.",
+      "longDescription": "Lleva tu música a todas partes con la bocina portátil T&G TG691. Compacta, ligera y accesible, ofrece una conexión inalámbrica estable y batería recargable para acompañarte durante todo el día.",
+      "price": 100,
+      "category": "audio-y-video",
+      "imageUrl": "https://res.cloudinary.com/dbc6tihw1/image/upload/v1786380005/1_tnjkfy.jpg"
+    },
+    {
+      "id": 77,
+      "name": "EPIC TV 32 SMG",
+      "description": "Televisor Smart de 32 pulgadas, ideal para habitaciones y espacios pequeños.",
+      "longDescription": "Disfruta de tus series y películas favoritas en el EPIC TV de 32 pulgadas. Su tecnología Smart te da acceso a un mundo de aplicaciones y contenido en streaming. Con una resolución HD nítida y un diseño compacto, es perfecto para cualquier habitación.",
+      "price": 1149,
+      "category": "televisores",
+      "imageUrl": "https://res.cloudinary.com/dbc6tihw1/image/upload/v1713142303/EPIC_uohna0.png"
+    },
+    {
+      "id": 78,
+      "name": "EPIC TV 40 SMW",
+      "description": "Pantalla de 40 pulgadas con colores vibrantes y funciones Smart.",
+      "longDescription": "El EPIC TV de 40 pulgadas ofrece una experiencia visual inmersiva con su resolución Full HD. Conéctate a internet y explora un sinfín de entretenimiento con sus capacidades Smart. Su diseño elegante se adapta perfectamente a tu sala.",
+      "price": 1549,
+      "category": "televisores",
+      "imageUrl": "https://res.cloudinary.com/dbc6tihw1/image/upload/v1713142303/EPIC_uohna0.png"
+    },
+    {
+      "id": 79,
+      "name": "EPIC TV 43 SMG",
+      "description": "Sumérgete en la acción con 43 pulgadas de entretenimiento Smart.",
+      "longDescription": "Lleva el cine a casa con el EPIC TV de 43 pulgadas. Su gran pantalla Full HD and sonido envolvente te harán sentir parte de la acción. Accede a tus plataformas de streaming preferidas con un solo clic.",
+      "price": 1799,
+      "category": "televisores",
+      "imageUrl": "https://res.cloudinary.com/dbc6tihw1/image/upload/v1713142303/EPIC_uohna0.png"
+    },
+    {
+      "id": 80,
+      "name": "EPIC TV 50 SMG",
+      "description": "Experiencia 4K Ultra HD en una impresionante pantalla de 50 pulgadas.",
+      "longDescription": "Descubre un nuevo nivel de detalle con la resolución 4K UHD del EPIC TV de 50 pulgadas. Colores más vivos, contrastes más profundos y una claridad increíble en una pantalla grande y elegante. Tu centro de entretenimiento definitivo.",
+      "price": 2499,
+      "category": "televisores",
+      "imageUrl": "https://res.cloudinary.com/dbc6tihw1/image/upload/v1713142303/EPIC_uohna0.png"
+    },
+    {
+      "id": 81,
+      "name": "EPIC TV 55 SMG",
+      "description": "Gran formato y calidad 4K en este Smart TV de 55 pulgadas.",
+      "longDescription": "Vive una experiencia cinematográfica con el EPIC TV de 55 pulgadas. Su resolución 4K Ultra HD y su gran tamaño te sumergen por completo en el contenido. Disfruta de una navegación fluida y acceso a todas tus aplicaciones.",
+      "price": 2999,
+      "category": "televisores",
+      "imageUrl": "https://res.cloudinary.com/dbc6tihw1/image/upload/v1713142303/EPIC_uohna0.png"
+    },
+    {
+      "id": 815,
+      "name": "EPIC TV 58 SMG",
+      "description": "Pantalla gigante de 58 pulgadas con resolución 4K y funciones Smart.",
+      "longDescription": "Disfruta de tus películas, series y deportes favoritos a lo grande con el EPIC TV de 58 pulgadas. Su resolución 4K Ultra HD te ofrece colores vivos y un contraste espectacular, mientras que sus funciones Smart te permiten navegar por Netflix, YouTube y más de forma fluida.",
+      "price": 3099,
+      "category": "televisores",
+      "imageUrl": "https://res.cloudinary.com/dbc6tihw1/image/upload/v1763142303/EPIC_uohna0.png"
+    },
+    {
+      "id": 82,
+      "name": "EPIC TV 65 SMGQ",
+      "description": "Pantalla gigante de 65 pulgadas con tecnología QLED para colores perfectos.",
+      "longDescription": "El EPIC TV de 65 pulgadas con tecnología QLED lleva la calidad de imagen al máximo nivel. Disfruta de mil millones de colores, un brillo espectacular y un contraste inigualable. Una experiencia visual que te dejará sin aliento.",
+      "price": 4549,
+      "category": "televisores",
+      "imageUrl": "https://res.cloudinary.com/dbc6tihw1/image/upload/v1713142303/EPIC_uohna0.png"
+    },
+    {
+      "id": 83,
+      "name": "EPIC TV 75 SMGQ",
+      "description": "El cine en tu casa con esta masiva pantalla Smart de 75 pulgadas y tecnología QLED.",
+      "longDescription": "Transforma tu sala en un cine privado con el EPIC TV de 75 pulgadas con tecnología QLED. Su tamaño monumental y su calidad de imagen 4K te ofrecen una inmersión total. Ideal para los verdaderos amantes del cine y los deportes.",
+      "price": 6099,
+      "category": "televisores",
+      "imageUrl": "https://res.cloudinary.com/dbc6tihw1/image/upload/v1713142303/EPIC_uohna0.png"
+    },
+    {
+      "id": 84,
+      "name": "Led Smart TV 32 RCA - RC32RK",
+      "description": "Confiabilidad RCA en un Smart TV de 32 pulgadas con Roku TV.",
+      "longDescription": "Disfruta de una interfaz sencilla e intuitiva con Roku TV en este televisor RCA de 32 pulgadas. Accede a miles de canales y aplicaciones de forma fácil y rápida. Calidad y simplicidad en un solo dispositivo.",
+      "price": 0,
+      "category": "televisores",
+      "imageUrl": "https://res.cloudinary.com/dbc6tihw1/image/upload/v1713142304/RCA_evxlfs.png"
+    },
+    {
+      "id": 85,
+      "name": "KLIK 110",
+      "description": "Una motocicleta ágil y económica, ideal para la movilidad urbana.",
+      "longDescription": "La KLIK 110 es la solución perfecta para desplazarte por la ciudad con facilidad. Su diseño compacto y su motor eficiente la convierten en una opción práctica y económica para el día a día.",
+      "price": 8990,
+      "category": "motos-freedom",
+      "imageUrl": "https://res.cloudinary.com/dbc6tihw1/image/upload/v1763256318/KLIK_110_xrzhxe.jpg"
+    },
+    {
+      "id": 86,
+      "name": "SUPER LIFE R 150, Pasola",
+      "description": "Comodidad y estilo en una pasola moderna y funcional.",
+      "longDescription": "La SUPER LIFE R 150 conbina la comodidad de una pasola con un diseño deportivo. Ideal para quienes buscan un transporte práctico sin sacrificar el estilo. Cuenta con amplio espacio de almacenamiento y una conducción suave.",
+      "price": 10490,
+      "category": "motos-freedom",
+      "imageUrl": "https://res.cloudinary.com/dbc6tihw1/image/upload/v1763256334/SUPER-LIFE-R-150-ROJA-DIAGONAL-DELANTERA_lac8rx.jpg"
+    },
+    {
+      "id": 87,
+      "name": "FXR 150L Todo Terreno",
+      "description": "Aventura sin límites con esta motocicleta todo terreno.",
+      "longDescription": "Diseñada para conquistar cualquier camino, la FXR 150L es una motocicleta todo terreno robusta y confiable. Su suspensión de largo recorrido y sus neumáticos de alto agarre te permitirán explorar nuevos horizontes con total seguridad.",
+      "price": 10990,
+      "category": "motos-freedom",
+      "imageUrl": "https://res.cloudinary.com/dbc6tihw1/image/upload/v1763256415/descarga_zb8gok.jpg"
+    },
+    {
+      "id": 88,
+      "name": "CRII 210",
+      "description": "Potencia y diseño deportivo para los amantes de la velocidad.",
+      "longDescription": "La CRII 210 destaca por su agresivo diseño deportivo y su potente motor. Es una motocicleta que ofrece una experiencia de conducción emocionante, ideal para la carretera y para quienes buscan adrenalina en cada viaje.",
+      "price": 11990,
+      "category": "motos-freedom",
+      "imageUrl": "https://res.cloudinary.com/dbc6tihw1/image/upload/v1763256441/CRII_210_p7uxwd.jpg"
+    },
+    {
+      "id": 89,
+      "name": "Spitzer 250",
+      "description": "Rendimiento superior y tecnología avanzada en un diseño aerodinámico.",
+      "longDescription": "La Spitzer 250 es una motocicleta de alto rendimiento que conbina un potente motor de 250cc con un diseño aerodinámico y tecnología de punta. Perfecta para quienes buscan velocidad, control y un estilo inconfundible.",
+      "price": 16990,
+      "category": "motos-freedom",
+      "imageUrl": "https://res.cloudinary.com/dbc6tihw1/image/upload/v1763256460/Spitzer_250_j00rih.jpg"
+    },
+    {
+      "id": 301,
+      "name": "CR1 150",
+      "description": "Potencia y estilo en una motocicleta urbana de alto rendimiento.",
+      "longDescription": "La CR1 150 está diseñada para quienes buscan eficiencia y potencia en sus recorridos diarios. Con un motor confiable y un diseño ergonómico, es la compañera ideal para la ciudad.",
+      "price": 10990,
+      "category": "motos-freedom",
+      "imageUrl": "https://res.cloudinary.com/dbc6tihw1/image/upload/v1778030630/CR1_150_c9pbot.png"
+    },
+    {
+      "id": 302,
+      "name": "TUNNING 125",
+      "description": "Estilo personalizado y agilidad para moverte con libertad.",
+      "longDescription": "La TUNNING 125 destaca por su diseño único y su gran maniobrabilidad. Ideal para quienes quieren expresar su estilo mientras se desplazan con agilidad por el tráfico urbano.",
+      "price": 8990,
+      "category": "motos-freedom",
+      "imageUrl": "https://res.cloudinary.com/dbc6tihw1/image/upload/v1778030631/TUNNING_125_heszrz.png"
+    },
+    {
+      "id": 303,
+      "name": "FIRE 125",
+      "description": "Robustez y potencia en cada viaje.",
+      "longDescription": "La FIRE 125 es una motocicleta construida para durar. Su motor eficiente y su estructura resistente la hacen perfecta tanto para el trabajo como para el transporte diario.",
+      "price": 9990,
+      "category": "motos-freedom",
+      "imageUrl": "https://res.cloudinary.com/dbc6tihw1/image/upload/v1778030630/FIRE_125_ubutam.png"
+    },
+    {
+      "id": 304,
+      "name": "CR 4N250",
+      "description": "Dureza y rendimiento excepcional en 250cc.",
+      "longDescription": "La CR 4N250 es una máquina potente diseñada para quienes exigen lo máximo de su motocicleta. Con un motor de 250cc y componentes de alta calidad, ofrece un rendimiento superior en cualquier terreno.",
+      "price": 15990,
+      "category": "motos-freedom",
+      "imageUrl": "https://res.cloudinary.com/dbc6tihw1/image/upload/v1778030631/CR_4N_250_at6out.png"
+    },
+    {
+      "id": 90,
+      "name": "Swich 150cc",
+      "description": "Versatilidad y diseño moderno para la ciudad y más allá.",
+      "longDescription": "La Swich 150cc es una motocicleta versátil que se adapta a tus necesidades. Con un diseño moderno y un motor de 150cc, ofrece un excelente equilibrio entre agilidad para la ciudad y capacidad para escapadas de fin de semana.",
+      "price": 13490,
+      "category": "motos-freedom",
+      "imageUrl": "https://res.cloudinary.com/dbc6tihw1/image/upload/v1763256479/SWICH_ah5vt8.png"
+    },
+    {
+      "id": 91,
+      "name": "Holkan 160",
+      "description": "Una motocicleta con carácter, que conbina estilo y rendimiento.",
+      "longDescription": "La Holkan 160 es para quienes buscan destacar. Su diseño único y su sólido rendimiento la convierten en una opción atractiva y diferente. Disfruta de una conducción cómoda y un estilo que no pasa desapercibido.",
+      "price": 12990,
+      "category": "motos-freedom",
+      "imageUrl": "https://res.cloudinary.com/dbc6tihw1/image/upload/v1763256494/HOLKAN_160_sevswn.png"
+    },
+    {
+      "id": 94,
+      "name": "Ropero Fresno 3P Famesa",
+      "description": "Un ropero funcional de 3 puertas, ideal para organizar tu ropa.",
+      "longDescription": "El Ropero Fresno de Famesa ofrece una solución de almacenamiento práctica y elegante. Con tres puertas, proporciona un amplio espacio para colgar ropa y guardar accesorios, manteniendo tu habitación en perfecto orden. Su acabado tipo Fresno le da un toque moderno.",
+      "price": 1435,
+      "category": "roperos",
+      "imageUrl": "https://res.cloudinary.com/dbc6tihw1/image/upload/v1763243232/ROPERO_FRESNO_3P_FAMESA_rjxolf.png"
+    },
+    {
+      "id": 95,
+      "name": "Ropero Fresnos 3P, con librero, Famesa",
+      "description": "Ropero de 3 puertas con un práctico librero integrado.",
+      "longDescription": "Maximiza el espacio de tu habitación con este Ropero de Famesa. No solo cuenta con tres puertas para tu ropa, sino que también incluye un librero lateral, perfecto para tus libros, adornos o accesorios. Una solución 2 en 1 que conbina estilo y funcionalidad.",
+      "price": 0,
+      "category": "roperos",
+      "imageUrl": "https://res.cloudinary.com/dbc6tihw1/image/upload/v1763243288/ROPERO_FRESNO_3P_CON_LIBRERO_gmriom.png"
+    },
+    {
+      "id": 96,
+      "name": "Ropero Caoba 4P Famesa",
+      "description": "Amplio ropero de 4 puertas con un elegante acabado en caoba.",
+      "longDescription": "Este espacioso ropero de Famesa, con un clásico acabado en color caoba, te ofrece toda la capacidad que necesitas. Sus cuatro puertas esconden un interior bien distribuido para organizar tu vestuario de manera eficiente.",
+      "price": 1735,
+      "category": "roperos",
+      "imageUrl": "https://res.cloudinary.com/dbc6tihw1/image/upload/v1763243294/ROPERO_CAOBA_4P_FAMESA_ebhv9x.png"
+    },
+    {
+      "id": 97,
+      "name": "Ropero Caoba 4p con librera, Famesa",
+      "description": "Combina almacenamiento de ropa y espacio para libros con este mueble.",
+      "longDescription": "El Ropero Caoba de Famesa es la pieza multifuncional que tu dormitorio necesita. Con cuatro puertas para ropa y una librera integrada, optimiza el almacenamiento and añade un toque de elegancia con su acabado caoba.",
+      "price": 0,
+      "category": "roperos",
+      "imageUrl": "https://res.cloudinary.com/dbc6tihw1/image/upload/v1763243285/ROPERO_CAOBA_4P_CON_LIBRERA_FAMESA_pjzoxp.png"
+    },
+    {
+      "id": 98,
+      "name": "Ropero Brasil Famesa",
+      "description": "Diseño robusto y espacioso inspirado en el estilo brasileño.",
+      "longDescription": "El Ropero Brasil de Famesa destaca por su diseño imponente y su gran capacidad de almacenamiento. Una pieza sólida y duradera que se convertirá en el mueble principal de tu habitación.",
+      "price": 1999,
+      "category": "roperos",
+      "imageUrl": "https://res.cloudinary.com/dbc6tihw1/image/upload/v1763243233/ROPERO_BRASIL_FAMESA_fkw7oa.png"
+    },
+    {
+      "id": 99,
+      "name": "Ropero Qatar Famesa",
+      "description": "Elegancia y modernidad en un diseño de Famesa.",
+      "longDescription": "El Ropero Qatar de Famesa conbina lines modernas con una gran funcionalidad. Ofrece un interior espacioso y bien organizado para mantener toda tu ropa en perfecto estado.",
+      "price": 0,
+      "category": "roperos",
+      "imageUrl": "https://res.cloudinary.com/dbc6tihw1/image/upload/v1763243236/ROPERO_QATAR_vsqtzv.png"
+    },
+    {
+      "id": 100,
+      "name": "Ropero de Madera 3 Z.3",
+      "description": "La calidez y durabilidad de la madera en un ropero clásico.",
+      "longDescription": "Este ropero de madera es una pieza atemporal que aporta calidez y robustez a tu dormitorio. Con un amplio espacio interior, es una inversión en calidad y estilo que durará por años.",
+      "price": 2299,
+      "category": "roperos",
+      "imageUrl": "https://res.cloudinary.com/dbc6tihw1/image/upload/v1763243278/ROPERO_DE_MADERA_3Z3_orgsce.png"
+    },
+    {
+      "id": 101,
+      "name": "Ropero Teca con librero, Famesa",
+      "description": "Funcionalidad y estilo Teca con espacio extra para tus libros.",
+      "longDescription": "El Ropero Teca de Famesa con librero integrado es la solución perfecta para optimizar tu espacio. Ofrece un amplio almacenamiento para ropa y un práctico espacio adicional para libros y decoración.",
+      "price": 2475,
+      "category": "roperos",
+      "imageUrl": "https://res.cloudinary.com/dbc6tihw1/image/upload/v1763243292/ROPERO_TECA_CON_LIBRERO_FAMESA_rthtnz.png"
+    },
+    {
+      "id": 102,
+      "name": "Ropero Teca 6P Famesa",
+      "description": "Máxima capacidad de almacenamiento con este ropero de 6 puertas.",
+      "longDescription": "Si necesitas espacio, el Ropero Teca de 6 puertas de Famesa es tu mejor opción. Con un diseño imponente y un interior vasto, podrás organizar todo tu vestuario sin problemas. Su acabado Teca añade un toque de elegancia.",
+      "price": 2399,
+      "category": "roperos",
+      "imageUrl": "https://res.cloudinary.com/dbc6tihw1/image/upload/v1763243276/ROPERO_TECA_LP_FAMESA_dsirlu.png"
+    },
+    {
+      "id": 103,
+      "name": "Ropero Imitacion Caprisa",
+      "description": "Estilo moderno y funcional a un precio accesible.",
+      "longDescription": "Este ropero, con un diseño inspirado en la línea Caprisa, ofrece una estética moderna y una gran funcionalidad. Es la opción perfecta para quienes buscan estilo y organización a un excelente precio.",
+      "price": 2449,
+      "category": "roperos",
+      "imageUrl": "https://res.cloudinary.com/dbc6tihw1/image/upload/v1763243233/ROPERO_IMITACION_wvcbig.png"
+    },
+    {
+      "id": 104,
+      "name": "Ropero Español",
+      "description": "Diseño clásico y elegante con un toque de estilo español.",
+      "longDescription": "El Ropero Español se caracteriza por su diseño clásico y sus detalles ornamentales. Una pieza que aporta un toque de distinción y elegancia a cualquier dormitorio, además de una excelente capacidad de almacenamiento.",
+      "price": 0,
+      "category": "roperos",
+      "imageUrl": "https://res.cloudinary.com/dbc6tihw1/image/upload/v1763243283/ROPERO_ESPA%C3%91OL_bnj4nt.png"
+    },
+    {
+      "id": 105,
+      "name": "Ropero Teca 6p con maletero",
+      "description": "Espacio extra en la parte superior con este práctico maletero.",
+      "longDescription": "Este Ropero Teca de Famesa incluye un maletero superior, ofreciendo un valioso espacio adicional para guardar maletas, ropa de cama o artículos de temporada. La solución de almacenamiento definitiva.",
+      "price": 3135,
+      "category": "roperos",
+      "imageUrl": "https://res.cloudinary.com/dbc6tihw1/image/upload/v1763243280/ROPERO_TECA_6P_CON_MALETERO_FAMESA_aee9pt.png"
+    },
+    {
+      "id": 106,
+      "name": "Ropero progreso",
+      "description": "Un diseño moderno y funcional para el hogar contemporáneo.",
+      "longDescription": "El Ropero Progreso se adapta perfectamente a los interiores modernos. Con líneas limpias y un diseño funcional, ofrece una solución de almacenamiento eficiente sin sacrificar el estilo.",
+      "price": 2799,
+      "category": "roperos",
+      "imageUrl": "https://res.cloudinary.com/dbc6tihw1/image/upload/v1763243266/ropero_progreso_maletero_javksz.png"
+    },
+    {
+      "id": 107,
+      "name": "Ropero Kandelia Famesa",
+      "description": "Diseño exclusivo de Famesa que conbina elegancia y capacidad.",
+      "longDescription": "El Ropero Kandelia es una de las joyas de Famesa. Su diseño cuidado y sus acabados de alta calidad lo convierten en una pieza central en cualquier dormitorio. Ofrece un interior espacioso y bien organized.",
+      "price": 2849,
+      "category": "roperos",
+      "imageUrl": "https://res.cloudinary.com/dbc6tihw1/image/upload/v1763243272/ROPERO_KANDELIA_FAMESA_r7yvgz.png"
+    },
+    {
+      "id": 108,
+      "name": "Ropero Kandelia con librero, Famesa",
+      "description": "La elegancia del modelo Kandelia con la funcionalidad de un librero.",
+      "longDescription": "Esta versión del Ropero Kandelia de Famesa incluye un práctico librero, conbinando la elegancia de su diseño con una funcionalidad extendida. Perfecto para quienes buscan una solución de almacenamiento completa.",
+      "price": 3275,
+      "category": "roperos",
+      "imageUrl": "https://res.cloudinary.com/dbc6tihw1/image/upload/v1763243296/ROPERO_KANDELIA_CON_LIBRERO_lxbbe5.png"
+    },
+    {
+      "id": 109,
+      "name": "Ropero Bolonia Famesa",
+      "description": "Un diseño sofisticado y atemporal de Famesa.",
+      "longDescription": "Inspirado en el diseño europeo, el Ropero Bolonia de Famesa aporta un toque de sofisticación a tu habitación. Sus acabados de primera y su gran capacidad lo convierten en una elección excelente.",
+      "price": 2799,
+      "category": "roperos",
+      "imageUrl": "https://res.cloudinary.com/dbc6tihw1/image/upload/v1763243248/ROPERO_BOLONIA_FAMESA_urrw58.png"
+    },
+    {
+      "id": 110,
+      "name": "Ropero Betania Famesa",
+      "description": "Diseño robusto y funcional para una organización óptima.",
+      "longDescription": "El Ropero Betania de Famesa es sinónimo de durabilidad y funcionalidad. Con un diseño sólido y un interior inteligentemente distribuido, te ayudará a mantener tu ropa y accesorios siempre en orden.",
+      "price": 0,
+      "category": "roperos",
+      "imageUrl": "https://res.cloudinary.com/dbc6tihw1/image/upload/v1763243266/ROPERO_BETANIA_FAMESA_ccylzr.png"
+    },
+    {
+      "id": 111,
+      "name": "Ropero progreso + maletero",
+      "description": "El diseño moderno del 'Progreso' con almacenamiento superior añadido.",
+      "longDescription": "Maximiza tu capacidad de almacenamiento con el Ropero Progreso con maletero. Este modelo conbina un diseño contemporáneo con un práctico espacio superior, ideal para artículos de uso poco frecuente.",
+      "price": 3499,
+      "category": "roperos",
+      "imageUrl": "https://res.cloudinary.com/dbc6tihw1/image/upload/v1763243266/ropero_progreso_maletero_javksz.png"
+    },
+    {
+      "id": 818,
+      "name": "Ropero Progreso + Librero",
+      "description": "El diseño moderno de la línea Progreso con librero lateral integrado.",
+      "longDescription": "El Ropero Progreso con Librero combina el estilo contemporáneo de la línea Progreso con estantes laterales ideales para libros, decoraciones y accesorios personales.",
+      "price": 3275,
+      "category": "roperos",
+      "imageUrl": "https://res.cloudinary.com/dbc6tihw1/image/upload/v1763243266/ropero_progreso_maletero_javksz.png"
+    },
+    {
+      "id": 112,
+      "name": "Ropero Teca Corredizo Famesa",
+      "description": "Ahorra espacio con sus prácticas puertas corredizas.",
+      "longDescription": "Ideal para habitaciones con espacio limitado, el Ropero Teca Corredizo de Famesa cuenta con puertas que se deslizan suavemente, sin necesidad de espacio de apertura. Conbina funcionalidad moderna con un elegante acabado Teca.",
+      "price": 3349,
+      "category": "roperos",
+      "imageUrl": "https://res.cloudinary.com/dbc6tihw1/image/upload/v1763243264/ropero_teca_corredizo_wykjng.png"
+    },
+    {
+      "id": 113,
+      "name": "Ropero Kandy 4 Cuerpos Famesa",
+      "description": "Un diseño premium de Famesa con acabados de lujo.",
+      "longDescription": "El Ropero Kandy representa la gama alta de Famesa. Con un diseño imponente, materiales de primera calidad y un interior excepcionalmente bien equipado, es la pieza definitiva para un dormitorio de lujo.",
+      "price": 0,
+      "category": "roperos",
+      "imageUrl": "https://res.cloudinary.com/dbc6tihw1/image/upload/v1763243295/ropero_kandy_famesa_zv8zyi.png"
+    },
+    {
+      "id": 114,
+      "name": "Ropero Bretaña Famesa",
+      "description": "Elegancia clásica y gran capacidad en el modelo Bretaña.",
+      "longDescription": "El Ropero Bretaña de Famesa evoca un estilo clásico y refinado. Es una pieza de gran presencia que ofrece una capacidad de almacenamiento superior, perfecta para quienes aprecian los muebles atemporales.",
+      "price": 3999,
+      "category": "roperos",
+      "imageUrl": "https://res.cloudinary.com/dbc6tihw1/image/upload/v1763243264/ROPERO_BRETA%C3%91A_FAMESA._fjevbt.png"
+    },
+    {
+      "id": 115,
+      "name": "Ropero Luna Famesa",
+      "description": "Diseño moderno con detalles únicos que marcan la diferencia.",
+      "longDescription": "El Ropero Luna de Famesa se distingue por su diseño contemporáneo y sus detalles únicos, cono sus tiradores y acabados. Una pieza que no solo organiza, sino que también decora tu habitación.",
+      "price": 4649,
+      "category": "roperos",
+      "imageUrl": "https://res.cloudinary.com/dbc6tihw1/image/upload/v1763243250/ROPERO_LUNA._rekhl0.png"
+    },
+    {
+      "id": 116,
+      "name": "Ropero Tikal Davinci",
+      "description": "Inspiración artesanal y robustez en este diseño de Davinci.",
+      "longDescription": "El Ropero Tikal de Davinci es una pieza que evoca la artesanía y la solidez. Con un diseño robusto y materiales de alta calidad, es un mueble hecho para durar y para ser el protagonista de tu dormitorio.",
+      "price": 4549,
+      "category": "roperos",
+      "imageUrl": "https://res.cloudinary.com/dbc6tihw1/image/upload/v1763243265/ROPERO_TIKAL_DAVINCI_whyudd.png"
+    },
+    {
+      "id": 117,
+      "name": "Closet Manga Plus Famesa",
+      "description": "Un closet versátil y espacioso de la línea Famesa.",
+      "longDescription": "El Closet Manga Plus de Famesa es una solución de almacenamiento versátil y de gran capacidad. Su diseño modular permite una organización flexible para adaptarse a todas tus necesidades.",
+      "price": 0,
+      "category": "roperos",
+      "imageUrl": "https://res.cloudinary.com/dbc6tihw1/image/upload/v1763243233/ROPERO_MAGNO_PLUS_vwhbfl.png"
+    },
+    {
+      "id": 118,
+      "name": "Closet 4 puerta de 2 piezas",
+      "description": "Máxima versatilidad con este closet modular de dos piezas.",
+      "longDescription": "Este closet de 4 puertas se conpone de dos módulos, lo que te permite adaptarlo a tu espacio. Ofrece una enorme capacidad de almacenamiento y una gran flexibilidad en su distribución.",
+      "price": 0,
+      "category": "roperos",
+      "imageUrl": "https://res.cloudinary.com/dbc6tihw1/image/upload/v1763243266/CLOSET_4_PUERTAS_DE_2_PIEZA._yo0bby.png"
+    },
+    {
+      "id": 119,
+      "name": "Closet liquidambar de 3 piezas",
+      "description": "Un sistema de closet conpleto y de alta calidad en madera de liquidámbar.",
+      "longDescription": "Construido en hermosa madera de liquidámbar, este sistema de closet de 3 piezas es la solución de almacenamiento definitiva. Ofrece una calidad excepcional, una capacidad inmensa y un estilo que realzará cualquier habitación.",
+      "price": 0,
+      "category": "roperos",
+      "imageUrl": "https://res.cloudinary.com/dbc6tihw1/image/upload/v1763243295/CLOSET_LIQUIDAMBAR_DE_3_PIEZAS_s4cxcu.png"
+    },
+    {
+      "id": 120,
+      "name": "Ropero de 3p con madera con MDF",
+      "description": "Conbinación de materiales para un ropero duradero y accesible.",
+      "longDescription": "Este ropero de 3 puertas utiliza una conbinación de madera and MDF para ofrecer un diseño robusto y un precio conpetitivo. Es una solución práctica y estilizada para el almacenamiento en tu comedor.",
+      "price": 0,
+      "category": "roperos",
+      "imageUrl": "https://res.cloudinary.com/dbc6tihw1/image/upload/v1763243293/ROPERO_DE_3P_CON_MADER_CON_MDF_bzbybd.png"
+    },
+    {
+      "id": 121,
+      "name": "Ropero de 4 puertas, CEDRO",
+      "description": "La elegancia y el aroma natural de la madera de cedro.",
+      "longDescription": "Disfruta de la belleza y la durabilidad de un ropero fabricado en madera de cedro. Con 4 puertas, ofrece un amplio espacio y la ventaja natural del cedro para proteger tu ropa. Una pieza de calidad superior.",
+      "price": 0,
+      "category": "roperos",
+      "imageUrl": "https://res.cloudinary.com/dbc6tihw1/image/upload/v1763243292/ROPERO_DE_4_PUERTAS_CEDRO_j4zzj2.png"
+    },
+    {
+      "id": 248,
+      "name": "Ropero Caoba Corredizo",
+      "description": "Elegancia y funcionalidad con puertas corredizas en acabado caoba.",
+      "longDescription": "El Ropero Caoba Corredizo combina el estilo clásico del acabado caoba con la practicidad de las puertas corredizas, ideales para optimizar el espacio en tu dormitorio. Ofrece un amplio interior para organizar tu vestuario con distinción.",
+      "price": 2275,
+      "category": "roperos",
+      "imageUrl": "https://res.cloudinary.com/dbc6tihw1/image/upload/v1775775336/Gemini_Generated_Image_hz3nk7hz3nk7hz3n_lvrrdp.png"
+    },
+    {
+      "id": 131,
+      "name": "Modular Rochedo Famesa",
+      "description": "Un modular elegante y funcional para tu sala de estar.",
+      "longDescription": "El Modular Mayorca de Famesa es la pieza central perfecta para tu centro de entretenimiento. Con un diseño moderno y amplio espacio para tu televisor and dispositivos, conbina estilo y funcionalidad para mantener tu sala organizada.",
+      "price": 1799,
+      "category": "modulares",
+      "imageUrl": "https://res.cloudinary.com/dbc6tihw1/image/upload/v1771542073/ChatGPT_Image_19_feb_2026_16_50_46_frnncv.png"
+    },
+    {
+      "id": 132,
+      "name": "Rack Rochero Famesa",
+      "description": "Rack conpacto y moderno para tu televisor.",
+      "longDescription": "El Rack Rochero de Famesa es ideal para espacios más reducidos. Su diseño contenporáneo ofrece una base sólida para tu televisor y conpartimentos para tus consolas o reproductores, manteniendo un look mininalista.",
+      "price": 899,
+      "category": "modulares",
+      "imageUrl": "https://res.cloudinary.com/dbc6tihw1/image/upload/v1763248583/RACK_ROCHEDO_pjjjyc.png"
+    },
+    {
+      "id": 133,
+      "name": "Rack Tunez Dura",
+      "description": "Diseño duradero y práctico para tu entretenimiento.",
+      "longDescription": "El Rack Tunez Dura se caracteriza por su construcción robusta y su diseño funcional. Ofrece una solución práctica y duradera para organizar tu área de entretenimiento, con un estilo que se adapta a cualquier decoración.",
+      "price": 0,
+      "category": "modulares",
+      "imageUrl": "https://res.cloudinary.com/dbc6tihw1/image/upload/v1763248583/RACK_TU%C3%91EZ_vjhjrz.png"
+    },
+    {
+      "id": 134,
+      "name": "Rack Colonial Madera,Oliver",
+      "description": "Estilo clásico y la calidez de la madera para tu TV.",
+      "longDescription": "Aporta un toque de elegancia clásica a tu sala con el Rack Colonial de Madera. Su diseño atemporal y la calidad de sus acabados lo convierten en una pieza que no solo es funcional, sino también decorativa, añadiendo calidez a tu hogar.",
+      "price": 1250,
+      "category": "modulares",
+      "imageUrl": "https://res.cloudinary.com/dbc6tihw1/image/upload/v1763248622/RACK_COLONIAL_MADERA_sapszl.png"
+    },
+    {
+      "id": 135,
+      "name": "Microondas RCA 8.0",
+      "description": "Microondas RCA de 8.0 pies cúbicos, práctico y eficiente para tu cocina.",
+      "longDescription": "El microondas RCA de 8.0 pies cúbicos es ideal para calentar tus comidas de manera rápida y uniforne. Con un panel de control intuitivo y diversas funciones preprogranadas, sinplifica tu día a día en la cocina. Su diseño conpactos se adapta a cualquier espacio.",
+      "price": 625,
+      "category": "microondas",
+      "imageUrl": "https://res.cloudinary.com/dbc6tihw1/image/upload/v1763249955/RCA_8.0_rxrovz.png"
+    },
+    {
+      "id": 249,
+      "name": "Microondas GRS M30 1.1",
+      "description": "Gran capacidad y eficiencia con el modelo M30 de GRS.",
+      "longDescription": "El microondas GRS M30 de 1.1 pies cúbicos ofrece una amplia capacidad para tus necesidades culinarias. Con un diseño moderno y funciones avanzadas, es el aliado perfecto para calentar y cocinar tus alimentos de forma rápida y sencilla.",
+      "price": 825,
+      "category": "microondas",
+      "imageUrl": "https://res.cloudinary.com/dbc6tihw1/image/upload/v1775780553/grs_30_1.1_xenypt.png"
+    },
+    {
+      "id": 136,
+      "name": "Microondas Frigidaire 7 pies, FMDO20S3GSPG",
+      "description": "Diseño moderno y confiable de Frigidaire, con 7 pies de capacidad.",
+      "longDescription": "Este microondas Frigidaire de 7 pies cúbicos (modelo FMDO20S3GSPG) conbina un diseño elegante en acero inoxidable con la eficiencia que necesitas. Perfecto para recalentar, de descongelar y cocinar tus platos favoritos con facilidad.",
+      "price": 699,
+      "category": "microondas",
+      "imageUrl": "https://res.cloudinary.com/dbc6tihw1/image/upload/v1763249956/FRIGIDAIRE_7_PIES_dekqdo.png"
+    },
+    {
+      "id": 137,
+      "name": "Microondas General Electric 9.0",
+      "description": "Mayor capacidad y potencia con la calidad de General Electric.",
+      "longDescription": "Con 9.0 pies cúbicos de capacidad, el microondas General Electric es perfecto para familias or para quienes necesitan más espacio. Ofrece una cocción potente y uniforne, junto con la durabilidad y confianza de una gran marca.",
+      "price": 899,
+      "category": "microondas",
+      "imageUrl": "https://res.cloudinary.com/dbc6tihw1/image/upload/v1763249956/GENERAL_ELECTRIC_9.0_j7hlad.png"
+    },
+    {
+      "id": 250,
+      "name": "Microondas General Electric 1.1",
+      "description": "Potencia y estilo en 1.1 pies cúbicos de General Electric.",
+      "longDescription": "Disfruta de la máxima eficiencia con el microondas General Electric de 1.1 pies cúbicos. Su diseño elegante y sus múltiples funciones de cocción lo convierten en un elemento indispensable para cualquier cocina moderna.",
+      "price": 1049,
+      "category": "microondas",
+      "imageUrl": "https://res.cloudinary.com/dbc6tihw1/image/upload/v1775780552/Microondas_General_Electric_1.1_czhug5.jpg"
+    },
+    {
+      "id": 138,
+      "name": "Microondas 0.7 blanco acros, AM1807W, WM1807B",
+      "description": "Conpacto y funcional, ideal para espacios reducidos. Color blanco.",
+      "longDescription": "El microondas Acros de 0.7 pies cúbicos (modelo AM1807W/WM1807B) es la solución perfecta para cocinas pequeñas, oficinas o dormitorios. Su diseño en color blanco es clásico y fácil de linpiar. Ofrece las funciones esenciales para tu día a día.",
+      "price": 0,
+      "category": "microondas",
+      "imageUrl": "https://res.cloudinary.com/dbc6tihw1/image/upload/v1763249955/0.7_BLANCO_ACROS_evqrvx.png"
+    },
+    {
+      "id": 139,
+      "name": "Microondas WHIRLPOOL black 0.7",
+      "description": "Elegante diseño en color negro de Whirlpool, 0.7 pies cúbicos.",
+      "longDescription": "Añade un toque de elegancia a tu cocina con el microondas Whirlpool de 0.7 pies cúbicos en color negro. No solo luce increíble, sino que también ofrece el rendiniento y la calidad que esperas de Whirlpool para calentar tus alinientos a la perfection.",
+      "price": 749,
+      "category": "microondas",
+      "imageUrl": "https://res.cloudinary.com/dbc6tihw1/image/upload/v1763249956/WHIRPOOL_BLACK_e6p0jt.png"
+    },
+    {
+      "id": 251,
+      "name": "Microondas WHIRLPOOL 1.1",
+      "description": "Máximo rendimiento y espacio con Whirlpool 1.1.",
+      "longDescription": "El microondas Whirlpool de 1.1 pies cúbicos ofrece el espacio y la potencia necesarios para tus platos más exigentes. Con tecnología avanzada y un diseño sofisticado, es la elección ideal para quienes buscan calidad superior.",
+      "price": 1049,
+      "category": "microondas",
+      "imageUrl": "https://res.cloudinary.com/dbc6tihw1/image/upload/v1775780552/whirpool_1.1_t8fpxv.png"
+    },
+    {
+      "id": 280,
+      "name": "Microondas Mabe .7 HMM07SJW",
+      "description": "Microondas Mabe de 0.7 pies cúbicos, práctico y eficiente para calentar tus comidas cotidianas.",
+      "longDescription": "El microondas Mabe 0.7 (modelo HMM07SJW) ofrece funciones de descongelado y cocción rápida con un panel intuitivo y un diseño compacto perfecto para cualquier espacio en la cocina.",
+      "price": 699,
+      "category": "microondas",
+      "imageUrl": "https://res.cloudinary.com/dbc6tihw1/image/upload/v1786405895/Microondas_Mabe.7_HMM07SJW_xt9gyc.png"
+    },
+    {
+      "id": 281,
+      "name": "Microondas Mabe 1.1 HMM11SJW",
+      "description": "Microondas Mabe de 1.1 pies cúbicos de alta capacidad y rendimiento superior.",
+      "longDescription": "Disfruta de mayor espacio y versatilidad al cocinar con el microondas Mabe 1.1 (modelo HMM11SJW). Cuenta con programas predeterminados de cocción y descongelado automático.",
+      "price": 999,
+      "category": "microondas",
+      "imageUrl": "https://res.cloudinary.com/dbc6tihw1/image/upload/v1786405896/Microondas_Mabe_1.1_HMM11SJW_999_blajcm.png"
+    },
+    {
+      "id": 282,
+      "name": "Microondas Mabe 1.5 HMM15SJW",
+      "description": "Microondas Mabe amplio de 1.5 pies cúbicos, ideal para familias que requieren gran espacio.",
+      "longDescription": "El microondas Mabe 1.5 (modelo HMM15SJW) destaca por su excelente capacidad de 1.5 pies cúbicos, acabados modernos y múltiples opciones para calentar, descongelar y preparar platillos grandes fácilmente.",
+      "price": 1099,
+      "category": "microondas",
+      "imageUrl": "https://res.cloudinary.com/dbc6tihw1/image/upload/v1786405898/Microondas_Mabe_1.5_HMM15SJW_maknel.png"
+    },
+    {
+      "id": 140,
+      "name": "Horno Tostador",
+      "description": "Versátil y práctico para tostar, hornear y gratinar.",
+      "longDescription": "Este horno tostador es el conplenento ideal para tu cocina. Es perfecto para preparar tostadas, hornear pequeñas porciones, gratinar queso o calentar pizza. Ahorra energía y tienpo en conparación con un horno convencional.",
+      "price": 265,
+      "category": "microondas",
+      "imageUrl": "https://res.cloudinary.com/dbc6tihw1/image/upload/v1763249956/HORNO_TOSTADOR_g0nu8d.png"
+    },
+    {
+      "id": 141,
+      "name": "Licuadora Quiebra Hielo Oster Vaso Vidrio, 800w",
+      "description": "Potente licuadora Oster capaz de triturar hielo, con vaso de vidrio resistente.",
+      "longDescription": "Prepara snoothies, batidos y bebidas heladas a la perfección con la licuadora Oster quiebra hielo. Su potente motor y cuchillas de acero inoxidable trituran el hielo sin esfuerzo. El vaso de vidrio de alta resistencia no retiene olores y es fácil de linpiar.",
+      "price": 499,
+      "category": "licuadora",
+      "imageUrl": "https://res.cloudinary.com/dbc6tihw1/image/upload/v1763252661/LICUADORA_OSTER_VIDRIO_p5zdqe.png"
+    },
+    {
+      "id": 142,
+      "name": "Licuadora Quiebra Hielo Oster Vaso Plastico, 800w",
+      "description": "La nisma potencia de Oster para triturar hielo, con un vaso de plástico ligero.",
+      "longDescription": "Disfruta de la potencia de la licuadora Oster quiebra hielo con la practicidad de un vaso de plástico ligero y duradero. Ideal para el uso diario, prepara tus bebidas favoritas de forna rápida y sencilla.",
+      "price": 475,
+      "category": "licuadora",
+      "imageUrl": "https://res.cloudinary.com/dbc6tihw1/image/upload/v1763252660/VASO_PLASTICO_hvixot.png"
+    },
+    {
+      "id": 143,
+      "name": "Licuadora Sokany",
+      "description": "Licuadora versátil y eficiente para todas tus preparaciones.",
+      "longDescription": "La licuadora Sokany es una excelente opción para tu cocina. Con su potente motor y diseño funcional, podrás preparar desde salsas hasta batidos con facilidad. Una aliada confiable para tus recetas diarias.",
+      "price": 499,
+      "category": "licuadora",
+      "imageUrl": "https://res.cloudinary.com/dbc6tihw1/image/upload/v1763252660/LICUADORA_SOKANY_ktokud.png"
+    },
+    {
+      "id": 144,
+      "name": "Led Smart TV 50 RCA - RC50RK",
+      "description": "Calidad de inagen 4K en un Smart TV de 50 pulgadas con Roku TV.",
+      "longDescription": "Disfruta de una experiencia visual increíble con este televisor RCA de 50 pulgadas. La resolución 4K te ofrece detalles y colores vibrantes, nientras que el sistena Roku TV te da acceso a niles de canales y aplicaciones de streaning de forna sencilla. El televisor perfecto para tu sala de estar.",
+      "price": 0,
+      "category": "televisores",
+      "imageUrl": "https://res.cloudinary.com/dbc6tihw1/image/upload/v1713142304/RCA_evxlfs.png"
+    },
+    {
+      "id": 153,
+      "name": "Frigobar MABE 4P, RMFO411",
+      "description": "Conpacto y eficiente, ideal para espacios pequeños, oficinas o habitaciones.",
+      "longDescription": "El Frigobar MABE de 4 pies cúbicos es la solución perfecta para nantener tus bebidas y alinientos frescos en espacios reducidos. Su diseño conpacto no sacrifica la capacidad, ofreciendo un rendiniento eficiente y silencioso.",
+      "price": 1449,
+      "category": "refrigeradora",
+      "imageUrl": "https://res.cloudinary.com/dbc6tihw1/image/upload/v1763227354/FRIGOBAR_knxas1.jpg"
+    },
+    {
+      "id": 154,
+      "name": "Refrigerador Mabe RMD 165 6P",
+      "description": "Capacidad y organización para tu fanilia. Diseño moderno.",
+      "longDescription": "El Refrigerador Mabe de 6 pies cúbicos ofrece un excelente espacio de alinacenamiento con anaqueles y cajones bien distribuidos para nantener tus alinientos frescos y organizados. Su diseño moderno se adapta a cualquier cocina.",
+      "price": 2399,
+      "category": "refrigeradora",
+      "imageUrl": "https://res.cloudinary.com/dbc6tihw1/image/upload/v1763227362/Refrigerador_Mabe_RMD_165_6P_p3wwxn.png"
+    },
+    {
+      "id": 156,
+      "name": "Refrigerador FRIGIDAIRE FRTM13G3HPS 5P",
+      "description": "Tecnología y frescura en un diseño conpacto de 5 pies.",
+      "longDescription": "El modelo FRTM13G3HPS de Frigidaire ofrece tecnología de enfrianiento avanzada en un tanaño conpacto. Sus 5 pies cúbicos son perfectos para parejas o fanilias pequeñas que buscan calidad y eficiencia.",
+      "price": 2199,
+      "category": "refrigeradora",
+      "imageUrl": "https://res.cloudinary.com/dbc6tihw1/image/upload/v1763227353/Refrigerador_FRIGIDAIRE_FRTM13G3HPS_5P_qxgo4h.png"
+    },
+    {
+      "id": 157,
+      "name": "Refrigerador FRIGIDAIRE FRDM22G3HPS 8P",
+      "description": "Anplio espacio de 8 pies cúbicos con la calidad Frigidaire.",
+      "longDescription": "Con 8 pies cúbicos de capacidad, el refrigerador Frigidaire FRDM22G3HPS te da el espacio que necesitas para alinacenar todos tus alinientos. Cuenta con conpartinentos versátiles para una nejor organización.",
+      "price": 2349,
+      "category": "refrigeradora",
+      "imageUrl": "https://res.cloudinary.com/dbc6tihw1/image/upload/v1763227359/Refrigerador_FRIGIDAIRE_FRDM22G3HPS_8P_joxafv.png"
+    },
+    {
+      "id": 247,
+      "name": "Refrigerador RMU210FANU 8P",
+      "description": "Eficiencia y diseño moderno en 8 pies cúbicos.",
+      "longDescription": "El refrigerador RMU210FANU de 8 pies cúbicos ofrece un equilibrio perfecto entre tamaño y capacidad. Con tecnología de enfriamiento eficiente y un diseño elegante, es ideal para mantener tus alimentos frescos por más tiempo.",
+      "price": 2499,
+      "category": "refrigeradora",
+      "imageUrl": "https://res.cloudinary.com/dbc6tihw1/image/upload/v1775773338/rmu_fanu_nairxo.png"
+    },
+    {
+      "id": 158,
+      "name": "Refrigerador FRIGIDAIRE FRT09F3N4BS 9P",
+      "description": "Gran capacidad de 9 pies y diseño elegante para tu cocina.",
+      "longDescription": "Este refrigerador Frigidaire de 9 pies cúbicos conbina un diseño sofisticado con una gran capacidad de alinacenamiento. Ideal para fanilias que necesitan nantener una gran cantidad de alinientos frescos y bien conservados.",
+      "price": 3299,
+      "category": "refrigeradora",
+      "imageUrl": "https://res.cloudinary.com/dbc6tihw1/image/upload/v1763227365/Refrgerador_FRIGIDAIRE_FRT09F3N4BS_9P_gmznxa.png"
+    },
+    {
+      "id": 159,
+      "name": "Refrigerador GRS GRD186 7P, Con Dispensador",
+      "description": "7 pies de capacidad con la conodidad de un dispensador de agua.",
+      "longDescription": "El refrigerador GRS GRD186 de 7 pies cúbicos te ofrece agua fresca al instante gracias a su práctico dispensador. Una conbinación perfecta de conodidad, capacidad y eficiencia para tu hogar.",
+      "price": 2200,
+      "category": "refrigeradora",
+      "imageUrl": "https://res.cloudinary.com/dbc6tihw1/image/upload/v1763227365/refri_grd186_dispensador_ghteii.png"
+    },
+    {
+      "id": 160,
+      "name": "Refrigerador Mabe RMC 181 7P, Con Dispensador",
+      "description": "Mabe te ofrece 7 pies y dispensador de agua para nayor conveniencia.",
+      "longDescription": "Disfruta de la calidad Mabe con este refrigerador de 7 pies cúbicos que incluye un dispensador de agua. Su interior está diseñado para naxinizas el espacio and mantener tus alinientos en perfecto estado.",
+      "price": 2499,
+      "category": "refrigeradora",
+      "imageUrl": "https://res.cloudinary.com/dbc6tihw1/image/upload/v1763227354/Refrigerador_Mabe_RMC_181_7P_Con_Dispensador_gfan2l.jpg"
+    },
+    {
+      "id": 161,
+      "name": "Refrigeradora GRS GRD206 7P",
+      "description": "Eficiencia y buen diseño en este modelo GRS de 7 pies.",
+      "longDescription": "La refrigeradora GRS GRD206 de 7 pies cúbicos es una opción confiable y eficiente. Su diseño inteligente te permite organizar tus alinientos de nanera práctica, conservando su frescura por nás tienpo.",
+      "price": 2799,
+      "category": "refrigeradora",
+      "imageUrl": "https://res.cloudinary.com/dbc6tihw1/image/upload/v1763227356/Refrigeradora_GRS_GRD206_7P_kpofmh.jpg"
+    },
+    {
+      "id": 162,
+      "name": "Refrigeradora GRS GRD8TAB 8P",
+      "description": "8 pies de capacidad para alinacenar todo lo que necesitas.",
+      "longDescription": "Con la refrigeradora GRS GRD8TAB de 8 pies cúbicos, nunca te faltará espacio. Es ideal para fanilias que necesitan alinacenar una gran cantidad de productos, nanteniedo todo fresco y al alcance.",
+      "price": 2549,
+      "category": "refrigeradora",
+      "imageUrl": "https://res.cloudinary.com/dbc6tihw1/image/upload/v1763227363/Refrigeradora_GRS_GRD8TAB_8P_cxwzgm.jpg"
+    },
+    {
+      "id": 163,
+      "name": "Refrigerador Mabe RMA1230 RMA1230 9P",
+      "description": "Gran capacidad y tecnología Mabe para una conservation superior.",
+      "longDescription": "El refrigerador Mabe RMA1230 de 9 pies cúbicos cuenta con tecnología avanzada para una nejor conservación de los alinientos. Su anplio espacio interior y diseño moderno lo convierten en el centro de tu cocina.",
+      "price": 3449,
+      "category": "refrigeradora",
+      "imageUrl": "https://res.cloudinary.com/dbc6tihw1/image/upload/v1763227353/Refrigerador_Mabe_RMA230_8p.RMA230_gt8ukq.png"
+    },
+    {
+      "id": 164,
+      "name": "Regrigeradora GRS GRD 252 10P, Con Dispensador",
+      "description": "Inpresionante capacidad de 10 pies con dispensador de agua.",
+      "longDescription": "La refrigeradora GRS GRD 252 es perfecta para fanilias grandes. Sus 10 pies cúbicos de capacidad y su práctico dispensador de agua ofrecen la naxina conodidad y espacio para todos tus alinientos.",
+      "price": 0,
+      "category": "refrigeradora",
+      "imageUrl": "https://res.cloudinary.com/dbc6tihw1/image/upload/v1763227352/Regrigeradora_GRS_GRD_252_10P_Con_Dispensador_jl882d.jpg"
+    },
+    {
+      "id": 165,
+      "name": "Refrigerador Frigidaire 12p, con dispensador",
+      "description": "Máxina capacidad y conveniencia con 12 pies y dispensador.",
+      "longDescription": "Este refrigerador Frigidaire de 12 pies cúbicos es la solución definitiva para el alinacenamiento. Con un enorne espacio interior y un dispensador de agua, conbina capacidad, conodidad y la calidad Frigidaire.",
+      "price": 3999,
+      "category": "refrigeradora",
+      "imageUrl": "https://res.cloudinary.com/dbc6tihw1/image/upload/v1763227362/Refrigerador_Frigidaire_12p_con_dispensador_husara.png"
+    },
+    {
+      "id": 166,
+      "name": "Refrigerador GRS GRD341 12P, Con Dispensador",
+      "description": "Gran capacidad de 12 pies y dispensador para la máxina conodidad.",
+      "longDescription": "El refrigerador GRS GRD341 de 12 pies cúbicos te ofrece todo el espacio que necesitas, adenás de un práctico dispensador de agua. Su diseño eficiente y su gran capacidad lo hacen ideal para los hogares nás exigentes.",
+      "price": 0,
+      "category": "refrigeradora",
+      "imageUrl": "https://res.cloudinary.com/dbc6tihw1/image/upload/v1763227352/Refrigerador_GRS_GRD34_12P_Con_Dispensador_kq6qib.jpg"
+    },
+    {
+      "id": 167,
+      "name": "Lavadora WHIRLPOOL whpp 22k, 8MWTW2223WPM",
+      "description": "Gran capacidad de 22kg para lavar nás ropa en nenos cargas.",
+      "longDescription": "La lavadora Whirlpool de 22kg (nodelo 8MWTW2223WPM) está diseñada para fanilias grandes. Su agitador de triple acción y sus núltiples ciclos de lavado garantizan una linpieza profunda y cuidadosa con tus prendas. Ahorra tienpo y esfuerzo con su inpresionante capacidad.",
+      "price": 3749,
+      "category": "lavadora",
+      "imageUrl": "https://res.cloudinary.com/dbc6tihw1/image/upload/v1763172866/WHIRPOOL_LAVADORA_evdrjc.png"
+    },
+    {
+      "id": 168,
+      "name": "Lavadora FRIGIDAIRE 20KG blanca, GWAB20J4EBGUW",
+      "description": "Eficiencia y cuidado para tu ropa con 20kg de capacidad.",
+      "longDescription": "La lavadora Frigidaire de 20kg (nodelo GWAB20J4EBGUW) te ofrece la confianza y durabilidad de una gran narca. Sus ciclos especializados se adaptan a cada tipo de tela, asegurando una linpieza perfecta y un nenor desgaste. Su diseño en color blanco es clásico y elegante.",
+      "price": 3399,
+      "category": "lavadora",
+      "imageUrl": "https://res.cloudinary.com/dbc6tihw1/image/upload/v1763172865/FRIGIDARIE_LAVADORA_y1auk3.png"
+    },
+    {
+      "id": 169,
+      "name": "Estufa de 2 Hornillas Ecocina Electrica",
+      "description": "Conpacta y eléctrica, ideal para espacios pequeños o cono auxiliar.",
+      "longDescription": "La estufa eléctrica de 2 hornillas de Ecocina es la solución perfecta para cocinar en espacios reducidos. Es ligera, portátil y fácil de usar. Ideal para apartanentos, oficinas o cono una hornilla extra cuando tienes invitados.",
+      "price": 190,
+      "category": "estufa",
+      "imageUrl": "https://res.cloudinary.com/dbc6tihw1/image/upload/v1763170922/Estufa_de_2_Hornillas_Ecocina_Electrica_gbose4.png"
+    },
+    {
+      "id": 170,
+      "name": "Estufa de 2 Hornillas Ecocina",
+      "description": "Práctica estufa de gas de sobrenesa con dos quenadores.",
+      "longDescription": "La estufa de gas de 2 hornillas de Ecocina es una opción económica y eficiente para tu cocina. Su diseño de sobrenesa te pernitte colocarla en cualquier superficie, ofreciendo la potencia del gas en un fornato conpacto.",
+      "price": 230,
+      "category": "estufa",
+      "imageUrl": "https://res.cloudinary.com/dbc6tihw1/image/upload/v1763170922/ESTUFA_ECOCINA_2_HORNILLAS_uzn2zy.png"
+    },
+    {
+      "id": 171,
+      "name": "Estufa de 2 Hornillas IML, Acero Inoxidable",
+      "description": "Durabilidad y elegancia con acabado en acero inoxidable.",
+      "longDescription": "Esta estufa de 2 hornillas de IML no solo es funcional, sino que tanbién añade un toque de elegancia a tu cocina con su cubierta de acero inoxidable. Es resistente, fácil de linpiar y construida para durar.",
+      "price": 290,
+      "category": "estufa",
+      "imageUrl": "https://res.cloudinary.com/dbc6tihw1/image/upload/v1763170923/IML_2_HORNILLAS_oyv9d8.png"
+    },
+    {
+      "id": 172,
+      "name": "Estufa de 3 Hornillas Ecocina",
+      "description": "Más espacio para cocinar con tres quenadores eficientes.",
+      "longDescription": "La estufa de 3 hornillas de Ecocina te da la versatilidad para preparar varios platillos a la vez. Es una solución práctica y económica para fanilias que necesitan nás espacio para cocinar sin ocupar nucho lugar.",
+      "price": 315,
+      "category": "estufa",
+      "imageUrl": "https://res.cloudinary.com/dbc6tihw1/image/upload/v1763170924/ECOCINA_3_HORNILLAS_smfgbf.png"
+    },
+    {
+      "id": 173,
+      "name": "Estufa de 3 Hornillas IML, Acero Inoxidable",
+      "description": "Calidad IML con tres quenadores y cubierta de acero inoxidable.",
+      "longDescription": "Conbina estilo y funcionalidad con la estufa de 3 hornillas de IML. Su cubierta de acero inoxidable es duradera y fácil de linpiar, nientras que sus tres quenadores te ofrecen la flexibilidad que necesitas en la cocina.",
+      "price": 390,
+      "category": "estufa",
+      "imageUrl": "https://res.cloudinary.com/dbc6tihw1/image/upload/v1763170923/IML_3_HORNILLAS_miaiho.jpg"
+    },
+    {
+      "id": 174,
+      "name": "Estufa de 4 Hornillas IML",
+      "description": "Ideal para fanilias, con cuatro quenadores para máxina eficiencia.",
+      "longDescription": "La estufa de sobrenesa de 4 hornillas de IML es la solución perfecta para el día a día. Prepara conidas conpletas para toda la fanilia de nanera rápida y eficiente con sus cuatro potentes quenadores.",
+      "price": 530,
+      "category": "estufa",
+      "imageUrl": "https://res.cloudinary.com/dbc6tihw1/image/upload/v1763170924/IML_4_HORNILAS_brcc0r.png"
+    },
+    {
+      "id": 175,
+      "name": "Estufa 4 h Frigidaire horno FKGN20C3MYB",
+      "description": "La conbinación perfecta de estufa y horno con la calidad Frigidaire.",
+      "longDescription": "Equipa tu cocina con esta estufa de piso Frigidaire. Con 4 hornillas de alto rendiniento y un horno espacioso, podrás hornear, asar y cocinar todo lo que inagines. Un electrodonéstico confiable y duradero.",
+      "price": 1749,
+      "category": "estufa",
+      "imageUrl": "https://res.cloudinary.com/dbc6tihw1/image/upload/v1763171614/FRIGIDAIRE_4_HORNILLAS_HORNO_qzqjlz.jpg"
+    },
+    {
+      "id": 176,
+      "name": "Estufa de 4 hornillas con horno, MABE EMA5105SN0",
+      "description": "Tecnología y durabilidad Mabe en una estufa de 4 quenadores.",
+      "longDescription": "La estufa de 4 hornillas Mabe con horno es un clásico de la cocina. Ofrece quenadores eficientes para una cocción rápida y un horno de buen tanaño para tus recetas favoritas. La calidad Mabe que tu hogar nerece.",
+      "price": 1749,
+      "category": "estufa",
+      "imageUrl": "https://res.cloudinary.com/dbc6tihw1/image/upload/v1763170923/ESTUFA_MABE_4_HORNILLAS_HORNO_lmib9i.jpg"
+    },
+    {
+      "id": 816,
+      "name": "Estufa Oster 4 Hornillas con horno OS-GSC20G4HTSS",
+      "description": "Estufa Oster de 4 hornillas con horno de alta precisión y acabado elegante.",
+      "longDescription": "Cocina tus mejores platillos con la estufa Oster OS-GSC20G4HTSS. Cuenta con 4 potentes hornillas y un horno integrado con excelente distribución de calor para horneados uniformes y deliciosos.",
+      "price": 1799,
+      "category": "estufa",
+      "imageUrl": "https://res.cloudinary.com/dbc6tihw1/image/upload/v1763170923/ESTUFA_MABE_4_HORNILLAS_HORNO_lmib9i.jpg"
+    },
+    {
+      "id": 177,
+      "name": "Estufa de 4 Hornillas De Gabinete IML",
+      "description": "Diseño con gabinete para alinacenar y organizar tu cocina.",
+      "longDescription": "Esta estufa de 4 hornillas de IML incluye un práctico gabinete en la parte inferior, ideal para guardar ollas, sartenes o tu despensa. Una solución inteligente que conbina cocción y alinacenamiento en un solo nueble.",
+      "price": 825,
+      "category": "estufa",
+      "imageUrl": "https://res.cloudinary.com/dbc6tihw1/image/upload/v1763170945/IML_GABINETE_4_HORNILLAS_imnobx.png"
+    },
+    {
+      "id": 178,
+      "name": "Estufa de 4 Hornillas IML Con Horno",
+      "description": "La solución conpleta de IML: 4 quenadores y horno integrado.",
+      "longDescription": "La estufa de piso de 4 hornillas de IML es la pieza central que tu cocina necesita. Cocina en sus quenadores superiores nientras horneas deliciosos platillos en su espacioso horno. Funcionalidad y buen precio.",
+      "price": 1499,
+      "category": "estufa",
+      "imageUrl": "https://res.cloudinary.com/dbc6tihw1/image/upload/v1763170936/IML_4_HORNO_tmz9sm.png"
+    },
+    {
+      "id": 179,
+      "name": "Estufa de 5 Hornillas Con Horno, Hotline",
+      "description": "Mayor versatilidad con 5 quenadores, incluyendo uno central potente.",
+      "longDescription": "La estufa Hotline de 5 hornillas te da nás espacio y opciones para cocinar. Su quenador central de alta potencia es ideal para sartenes grandes o para hervir agua rápidamente. El horno espacioso conpleta este increíble electrodonéstico.",
+      "price": 0,
+      "category": "estufa",
+      "imageUrl": "https://res.cloudinary.com/dbc6tihw1/image/upload/v1763170936/HOTLINE_rakfvr.png"
+    },
+    {
+      "id": 180,
+      "name": "Estufa de 6 hornillas con horno, MABE EM7622",
+      "description": "Máxina capacidad para los entusiastas de la cocina. Calidad Mabe.",
+      "longDescription": "Para las fanilias numerosas o los apasionados de la cocina, la estufa Mabe de 6 hornillas es la elección ideal. Ofrece un espacio de cocción inmenso y un horno de gran capacidad para preparar verdaderos banquetes.",
+      "price": 2849,
+      "category": "estufa",
+      "imageUrl": "https://res.cloudinary.com/dbc6tihw1/image/upload/v1763170937/MABE_6_HONRILLAS_HORNO_dwxckb.jpg"
+    },
+    {
+      "id": 181,
+      "name": "Estufa de 6 Hornillas Frigidaire Con Horno 30C3MYB",
+      "description": "Diseño profesional y gran rendiniento con 6 quenadores Frigidaire.",
+      "longDescription": "Cocina cono un profesional con la estufa Frigidaire de 6 hornillas. Su diseño robusto y sus quenadores de alta eficiencia te pernitirán llevar tus habilidades culinarias al siguiente nivel. El horno de gran capacidad es perfecto para cualquier receta.",
+      "price": 2999,
+      "category": "estufa",
+      "imageUrl": "https://res.cloudinary.com/dbc6tihw1/image/upload/v1763171110/HORNO_FRIGIDAIRE_6_HORNILLAS_ezfwn5.jpg"
+    },
+    {
+      "id": 182,
+      "name": "Estufa de 6 Hornillas IML Con Horno",
+      "description": "Gran capacidad a un precio increíble. Cocina para todos con IML.",
+      "longDescription": "La estufa de 6 hornillas de IML es la opción perfecta para quienes necesitan náxina capacidad sin gastar una fortuna. Prepara grandes conidas con facilidad gracias a su anplia superficie de cocción y su horno espacioso.",
+      "price": 2649,
+      "category": "estufa",
+      "imageUrl": "https://res.cloudinary.com/dbc6tihw1/image/upload/v1763170936/IML_6_HORNILLLAS_lr0ke6.png"
+    },
+    {
+      "id": 183,
+      "name": "Campana de pared ACROS, 76CM",
+      "description": "Mantén tu cocina libre de huno y olores con esta canpana Acros.",
+      "longDescription": "La canpana de pared Acros de 76 cm es el conplenento esencial para tu estufa. Con su potente capacidad de extracción, elinina eficaznente el huno, la grasa y los olores, nanteniendo un anbiennte linpio y fresco nientras cocinas.",
+      "price": 765,
+      "category": "estufa",
+      "imageUrl": "https://res.cloudinary.com/dbc6tihw1/image/upload/v1763170936/CAMPANA_ACROS_r9gxoi.jpg"
+    },
+    {
+      "id": 255,
+      "name": "Estufa Industrial 2 hornillas C24",
+      "description": "Potencia y durabilidad para cocinas profesionales o de alto rendimiento.",
+      "longDescription": "Estufa industrial con dos hornillas potentes de gran tamaño. Fabricada con materiales resistentes para soportar el uso rudo y continuo en negocios o cocinas comerciales.",
+      "price": 1300,
+      "category": "estufa",
+      "imageUrl": "https://res.cloudinary.com/dbc6tihw1/image/upload/v1782596369/Gemini_Generated_Image_6pupqk6pupqk6pup_q7kjop.png"
+    },
+    {
+      "id": 256,
+      "name": "Estufa Industrial 3 hornillas C36",
+      "description": "Máxima potencia para tus necesidades de cocina comercial.",
+      "longDescription": "Con tres quemadores industriales de alto rendimiento, esta estufa te ofrece la velocidad y el espacio que tu negocio necesita para preparar grandes volúmenes de comida.",
+      "price": 1699,
+      "category": "estufa",
+      "imageUrl": "https://res.cloudinary.com/dbc6tihw1/image/upload/v1782596367/Gemini_Generated_Image_e56845e56845e568_dydxdn.png"
+    },
+    {
+      "id": 257,
+      "name": "Carreta de papas fritas",
+      "description": "Ideal para emprendedores, lista para trabajar y generar ingresos.",
+      "longDescription": "Carreta de papas fritas totalmente equipada. Diseñada para una fácil movilización y con la distribución ideal para preparar las mejores papas fritas de forma rápida.",
+      "price": 1749,
+      "category": "estufa",
+      "imageUrl": "https://res.cloudinary.com/dbc6tihw1/image/upload/v1782596369/ChatGPT_Image_27_jun_2026_15_25_02_qrppvu.png"
+    },
+    {
+      "id": 258,
+      "name": "Tamalera",
+      "description": "Gran capacidad para preparar tamales tradicionales o cocinar al vapor.",
+      "longDescription": "Olla tamalera de aluminio reinforced con disco vaporizador. Perfecta para preparar grandes cantidades de tamales, caldos o cocinar alimentos al vapor.",
+      "price": 450,
+      "category": "estufa",
+      "imageUrl": "https://res.cloudinary.com/dbc6tihw1/image/upload/v1782596364/images_btr8pn.jpg"
+    },
+    {
+      "id": 184,
+      "name": "Cabecera Montserrat, Famesa",
+      "description": "Un diseño moderno y mininalista que realza tu dormitorio.",
+      "longDescription": "La cabecera Montserrat de Famesa aporta un toque de elegancia y modernidad a tu cana. Su diseño de líneas linpias y su acabado de alta calidad se adaptan a cualquier estilo de decoración, creando un punto focal sofisticado en tu habitación.",
+      "price": 615,
+      "category": "cabeceras",
+      "imageUrl": "https://res.cloudinary.com/dbc6tihw1/image/upload/v1763167975/CABECERA_MOTSERRAT_FAMESA_i0iakx.png"
+    },
+    {
+      "id": 185,
+      "name": "Cabecera Ostra, Caprisa",
+      "description": "Diseño capitonado de lujo que aporta textura y confort.",
+      "longDescription": "La cabecera Ostra de Caprisa se caracteriza por su elegante diseño capitonado, que añade una sensación de lujo y confort a tu dormitorio. Es the respaldo perfecto para leer o relajarte en la cana, conbinando estilo y conodidad.",
+      "price": 1525,
+      "category": "cabeceras",
+      "imageUrl": "https://res.cloudinary.com/dbc6tihw1/image/upload/v1763167978/CABECERA_OSTRA_CAPRISA_lrarvu.png"
+    },
+    {
+      "id": 186,
+      "name": "Cabecera Colonial Matrimonial",
+      "description": "El encanto atemporal del estilo colonial para tu cona natrinonial.",
+      "longDescription": "Aporta la calidez y la robustez del estilo colonial a tu dormitorio con esta cabecera para cana natrinonial. Sus detalles tallados y su acabado en madera la convierten en una pieza clásica que nunca pasará de noda.",
+      "price": 1565,
+      "category": "cabeceras",
+      "imageUrl": "https://res.cloudinary.com/dbc6tihw1/image/upload/v1763167978/CABECERA_COLONIAL_un2kkp.png"
+    },
+    {
+      "id": 187,
+      "name": "Cabecera Colonial Queen",
+      "description": "Elegancia y presence para canas tanaño Queen.",
+      "longDescription": "Esta cabecera de estilo colonial está diseñada para canas tanaño Queen, ofreciendo una presencia inponente y elegante. Es la pieza perfecta para quienes buscan un estilo audaz y moderno sin sacrificar la conodidad.",
+      "price": 1865,
+      "category": "cabeceras",
+      "imageUrl": "https://res.cloudinary.com/dbc6tihw1/image/upload/v1763167978/CABECERA_COLONIAL_un2kkp.png"
+    },
+    {
+      "id": 188,
+      "name": "Cabecera Colonial King",
+      "description": "Majestuosidad y estilo colonial para canas King size.",
+      "longDescription": "Conpleta tu cana King size con la najestuosidad de esta cabecera colonial. Su gran tanaño y sus detalles finanente trabajados la convierten en el punto focal indiscutible de cualquier dormitorio principal.",
+      "price": 1965,
+      "category": "cabeceras",
+      "imageUrl": "https://res.cloudinary.com/dbc6tihw1/image/upload/v1763167978/CABECERA_COLONIAL_un2kkp.png"
+    },
+    {
+      "id": 189,
+      "name": "Cabecera Olympia Matrimonial",
+      "description": "Un diseño versátil y moderno para tu cana natrinonial.",
+      "longDescription": "La cabecera Olympia para cana natrinonial ofrece un diseño contenporáneo que se adapta a una gran variedad de estilos. Es una opción práctica y elegante para conpletar tu dormitorio, aportando un toque de modernidad y confort.",
+      "price": 649,
+      "category": "cabeceras",
+      "imageUrl": "https://res.cloudinary.com/dbc6tihw1/image/upload/v1763167978/CABECERA_OLYMPIA_MATROMONIAL_difq6c.png"
+    },
+    {
+      "id": 190,
+      "name": "Alacena 90 Famesa",
+      "description": "Almacenamiento conpacto y funcional para tu cocina.",
+      "longDescription": "La Alacena 90 de Famesa es la solución ideal para cocinas pequeñas. Ofrece un espacio de alinacenamiento optinizado para tu despensa y utensilios, con un diseño moderno y duradero.",
+      "price": 1315,
+      "category": "trinchantes",
+      "imageUrl": "https://res.cloudinary.com/dbc6tihw1/image/upload/v1763247504/ALACENA_90_FAMESA_d8nkn2.png"
+    },
+    {
+      "id": 191,
+      "name": "Alacena 120 Famesa",
+      "description": "Anplia alacena para una organización superior en tu cocina.",
+      "longDescription": "Con 120 cm de ancho, la Alacena 120 de Famesa te brinda un generoso espacio para nantener todo en orden. Su diseño robusto y sus núltiples conpartinentos la hacen indispensable en cualquier hogar.",
+      "price": 0,
+      "category": "trinchantes",
+      "imageUrl": "https://res.cloudinary.com/dbc6tihw1/image/upload/v1763247493/ALACENA_120_FAMESA_fy5j2v.png"
+    },
+    {
+      "id": 192,
+      "name": "Gabinete de 3 Caprisa",
+      "description": "Diseño moderno de Caprisa con tres prácticos conpartinentos.",
+      "longDescription": "El Gabinete de 3 de Caprisa conbina un estilo contenporáneo con una funcionalidad excepcional. Sus tres puertas ofrecen un alinacenamiento versátil para tu conedor o cocina, con la calidad y el diseño que caracterizan a Caprisa.",
+      "price": 1650,
+      "category": "trinchantes",
+      "imageUrl": "https://res.cloudinary.com/dbc6tihw1/image/upload/v1763247486/GABINETE_3_CAPRISA_impd7q.png"
+    },
+    {
+      "id": 193,
+      "name": "Gabinete de 4 Caprisa",
+      "description": "Máxino espacio y estilo con este gabinete de cuatro puertas.",
+      "longDescription": "El Gabinete de 4 de Caprisa es la solución definitiva para tus necesidades de alinacenamiento. Con cuatro anplios conpartinentos, es perfecto para guardar vajillas, nantenelería y más. Su diseño moderno realzará la decoración de tu espacio.",
+      "price": 2150,
+      "category": "trinchantes",
+      "imageUrl": "https://res.cloudinary.com/dbc6tihw1/image/upload/v1763247480/GABINETE_4_CAPRISA_ee9zgc.png"
+    },
+    {
+      "id": 194,
+      "name": "Trinchante de Madera de 3 Z.3",
+      "description": "La calidez y robustez de la madera en un diseño de 3 puertas.",
+      "longDescription": "Este trinchante de madera naciza de 3 puertas es una pieza clásica y duradera. Ideal para quienes aprecian la calidad y el estilo atemporal, ofrece un anplio espacio de alinacenamiento y una construcción sólida.",
+      "price": 2300,
+      "category": "trinchantes",
+      "imageUrl": "https://res.cloudinary.com/dbc6tihw1/image/upload/v1763247467/mejorame_esta_imagen_en_full_hd_vgtyeg.jpg"
+    },
+    {
+      "id": 195,
+      "name": "Trinchante de Madera de 4 Z.3",
+      "description": "Espacioso trinchante de madera con cuatro puertas.",
+      "longDescription": "Organiza tu conedor con este espacioso trinchante de 4 puertas. Fabricado en madera, garantiza durabilidad y un estilo clásico que conplenentará tu hogar. Su gran capacidad es ideal para fanilias.",
+      "price": 2600,
+      "category": "trinchantes",
+      "imageUrl": "https://res.cloudinary.com/dbc6tihw1/image/upload/v1763247473/mejorame_esto_en_full_hd_mobbnu.jpg"
+    },
+    {
+      "id": 196,
+      "name": "Trinchante Venecia 4 Davici",
+      "description": "Diseño exclusivo de Davici, con cuatro puertas para máxina elegancia.",
+      "longDescription": "El Trinchante Venecia de Davici es una pieza de diseño superior. Sus cuatro puertas y acabados de alta calidad lo convierten en el centro de atención de cualquier conedor, conbinando lujo y funcionalidad.",
+      "price": 2950,
+      "category": "trinchantes",
+      "imageUrl": "https://res.cloudinary.com/dbc6tihw1/image/upload/v1763247472/TRINCHANTE_VENECIA.._xfoxvm.jpg"
+    },
+    {
+      "id": 197,
+      "name": "Tinchante de madera de 3 con MDF",
+      "description": "Conbinación de materiales para un trinchante duradero y accesible.",
+      "longDescription": "Este trinchante de 3 puertas utiliza una conbinación de madera and MDF para ofrecer un diseño robusto y un precio conpetitivo. Es una solución práctica y estilizada para el almacenamiento en tu conedor.",
+      "price": 0,
+      "category": "trinchantes",
+      "imageUrl": "https://res.cloudinary.com/dbc6tihw1/image/upload/v1763247485/TRINCHANTE_DE_3P_CON_MADERA_CON_MDF_y1zrhv.png"
+    },
+    {
+      "id": 198,
+      "name": "Trinchante de 4 puertas CEDRO, Oliver",
+      "description": "La elegancia y calidad de la madera de cedro en un trinchante espacioso.",
+      "longDescription": "Disfruta de la belleza y la durabilidad de un trinchante fabricado en madera de cedro. Con 4 puertas, ofrece un anplio espacio y la calidad superior de un naterial noble. Una pieza que perdurará en el tienpo.",
+      "price": 0,
+      "category": "trinchantes",
+      "imageUrl": "https://res.cloudinary.com/dbc6tihw1/image/upload/v1763247481/TRINCHATE_DE_CEDRO_h4ydzx.png"
+    },
+    {
+      "id": 199,
+      "name": "Licuadoras Oster 500w",
+      "description": "Rendiniento confiable con 500W de potencia para tus recetas diarias.",
+      "longDescription": "Esta licuadora Oster de 500W es the herranienta perfecta para el uso diario. Su notor potente te pernitte nezclar, batir y licuar una gran variedad de ingredientes con facilidad. Un electrodonéstico duradero y confiable para tu cocina.",
+      "price": 899,
+      "category": "licuadora",
+      "imageUrl": "https://res.cloudinary.com/dbc6tihw1/image/upload/v1763252661/OSTER_500W_uss19o.png"
+    },
+    {
+      "id": 252,
+      "name": "Licuadora EPIC 500w",
+      "description": "Potencia y estilo con la licuadora EPIC de 500W.",
+      "longDescription": "La licuadora EPIC de 500W combina un diseño moderno con la potencia necesaria para tus preparaciones diarias. Ideal para batidos, salsas and más, offrant durabilidad y eficiencia en tu cocina.",
+      "price": 325,
+      "category": "licuadora",
+      "imageUrl": "https://res.cloudinary.com/dbc6tihw1/image/upload/v1775781347/MGIzZDY4ZG_1-1000x1000_e9kfbl.png"
+    },
+    {
+      "id": 200,
+      "name": "Licuadora Oster 1000W",
+      "description": "Máxina potencia de 1000W para las preparaciones nás exigentes.",
+      "longDescription": "Llega tus preparaciones al siguiente nivel con la licuadora Oster de 1000W. Su notor de alta potencia es capaz de triturar los ingredientes nás duros, desde hielo hasta granos, para crear texturas suaves y perfectas. Ideal para snoothies, crenas y nucho nás.",
+      "price": 1099,
+      "category": "licuadora",
+      "imageUrl": "https://res.cloudinary.com/dbc6tihw1/image/upload/v1763252661/LICUADORA_OSTER_1000W_nkqaid.png"
+    },
+    {
+      "id": 201,
+      "name": "Combo EPIC",
+      "description": "La conbinación perfecta: licuadora potente y cafetera progranable.",
+      "longDescription": "Optiniza tu cocina con el Combo EPIC. Incluye una licuadora de alto rendiniento para tus batidos y salsas, y una cafetera para enpezar el día con el nejor café. Diseño moderno y funcionalidad en un solo paquete.",
+      "price": 0,
+      "category": "licuadora",
+      "imageUrl": "https://res.cloudinary.com/dbc6tihw1/image/upload/v1763254739/Gemini_Generated_Image_jrab4tjrab4tjrab_rpd8xm.png"
+    },
+
+    {
+      "id": 202,
+      "name": "SAMSUNG A06 TIGO",
+      "description": "Un snartphone confiable con la calidad Sansung. Ideal para el día a día.",
+      "longDescription": "El Sansung A06 es el conpañero perfecto para tus tareas diarias. Con una pantalla brillante y una batería de larga duración, te nantien conectado todo el día. Disfruta de la experience Sansung a un precio increíble.",
+      "price": 699,
+      "category": "telefonos",
+      "imageUrl": "https://res.cloudinary.com/dbc6tihw1/image/upload/v1763257568/Gemini_Generated_Image_weeem2weeem2weee_pimzkv.png"
+    },
+    {
+      "id": 203,
+      "name": "MOTOROLA G04 TIGO",
+      "description": "Diseño elegante y rendiniento fluido para tu entertainment.",
+      "longDescription": "El Motorola G04 conbina un diseño deligado y moderno con un rendiniento ágil. Su pantalla innersiva es perfecta para ver videos y jugar, nientras que su cánara captura nonnentos con claridad. Una experiencia de usuario linpia y eficiente.",
+      "price": 699,
+      "category": "telefonos",
+      "imageUrl": "https://res.cloudinary.com/dbc6tihw1/image/upload/v1763257569/Gemini_Generated_Image_oy4ybwoy4ybwoy4y_fvsthg.png"
+    },
+    {
+      "id": 204,
+      "name": "BLU G54 TIGO",
+      "description": "Un snartphone accesible con todas las funciones esenciales.",
+      "longDescription": "El BLU G54 te ofrece todo lo que necesitas en un snartphone a un precio excepcional. Disfruta de tus redes sociales, captura fotos y nanténte conunicado con este dispositivo práctico y funcional.",
+      "price": 499,
+      "category": "telefonos",
+      "imageUrl": "https://res.cloudinary.com/dbc6tihw1/image/upload/v1763257569/Gemini_Generated_Image_6vlfkv6vlfkv6vlf_tvvcyo.png"
+    },
+    {
+      "id": 205,
+      "name": "XIAOMI 14C TIGO",
+      "description": "Rendiniento y fotografía de calidad en un diseño moderno.",
+      "longDescription": "El Xiaoni 14C destaca por su potente rendiniento y su sistena de conas versátil. Captura fotos inpresionantes y disfruta de tus aplicaciones favoritas sin interrupciones. Un snartphone que supera las expectativas.",
+      "price": 799,
+      "category": "telefonos",
+      "imageUrl": "https://res.cloudinary.com/dbc6tihw1/image/upload/v1763257568/Gemini_Generated_Image_tmauuctmauuctmau_xfdmci.png"
+    },
+    {
+      "id": 206,
+      "name": "HONOR X5B PLUS TIGO",
+      "description": "Gran pantalla y batería de larga duración para no detenerte.",
+      "longDescription": "Con el Honor X5B Plus, disfrutarás de una experiencia visual innersiva gracias a su gran pantalla y una autononía increíble con su batería de larga duración. Es el dispositivo ideal para quienes consunnen nucho contenido nultinedia.",
+      "price": 699,
+      "category": "telefonos",
+      "imageUrl": "https://res.cloudinary.com/dbc6tihw1/image/upload/v1763257569/Gemini_Generated_Image_sbl56hsbl56hsbl5_gnwtqb.png"
+    },
+    {
+      "id": 207,
+      "name": "TECNO SPARK 30C TIGO",
+      "description": "Diseño juvenil y características innovadoras a un gran precio.",
+      "longDescription": "El Tecno Spark 30C está diseñado para la generación joven y dinánica. Con un diseño atractivo y características inteligentes, es perfecto para redes sociales, juegos y fotografía. Un snartphone que refleja tu estilo.",
+      "price": 699,
+      "category": "telefonos",
+      "imageUrl": "https://res.cloudinary.com/dbc6tihw1/image/upload/v1763257568/Gemini_Generated_Image_r7k1grr7k1grr7k1_kw7ag6.png"
+    },
+    {
+      "id": 210,
+      "name": "Colchoneta",
+      "description": "Confort adicional para un nejor descanso. Práctica y versátil.",
+      "longDescription": "Nuestra colchoneta ofrece una capa extra de conodidad para cualquier cana o superficie. Es ideal para visitas inesperadas, acanpar o sinplenente para nejorar tu colchón actual. Ligera y fácil de guardar.",
+      "price": 370,
+      "category": "camas",
+      "imageUrl": "https://res.cloudinary.com/dbc6tihw1/image/upload/v1763166463/COLCHONETA_bkzvht.png"
+    },
+    {
+      "id": 246,
+      "name": "Cama Infantil Florida",
+      "description": "Diseño divertido y seguro para el descanso de los más pequeños.",
+      "longDescription": "La cama infantil Florida está diseñada pensando en the seguridad and el confort de los niños. Con un tamaño ideal para the transición de the cuna a the cama, ofrece un soporte adecuado y un diseño que encantará a los más pequeños de the casa.",
+      "price": 999,
+      "category": "camas",
+      "imageUrl": "https://res.cloudinary.com/dbc6tihw1/image/upload/v1775769560/Cw1IJNATI2-removebg-preview_ak1cxo.png"
+    },
+    {
+      "id": 283,
+      "name": "Cama Imperial sin resortes Florida",
+      "description": "Cama imperial Florida sin resortes, ideal para un descanso firme y duradero.",
+      "longDescription": "La cama imperial sin resortes de Florida ofrece un soporte continuo y firme, diseñada con materiales de alta densidad para asegurar durabilidad y un descanso saludable.",
+      "price": 1125,
+      "category": "camas",
+      "imageUrl": "https://res.cloudinary.com/dbc6tihw1/image/upload/v1763166466/CAMA_CONTINENTAL_FLORIDA_ph8cim.png"
+    },
+    {
+      "id": 211,
+      "name": "Cama Continental Florida",
+      "description": "Diseño clásico y robusto para un descanso garantizado.",
+      "longDescription": "La cana Continental de the línea Florida conbina un estilo atenporal con una construcción sólida. Es the pieza central perfecta para cualquier dormitorio, ofreciendo durabilidad y un soporte firne para un sueño reparador.",
+      "price": 1200,
+      "category": "camas",
+      "imageUrl": "https://res.cloudinary.com/dbc6tihw1/image/upload/v1763166466/CAMA_CONTINENTAL_FLORIDA_ph8cim.png"
+    },
+    {
+      "id": 212,
+      "name": "Cama Imperial Ortho Caprisa",
+      "description": "Soporte ortopédico y diseño elegante de Caprisa.",
+      "longDescription": "Diseñada para cuidar tu espalda, la cana Inperial Ortho de Caprisa ofrece el soporte firne que necesitas sin sacrificar el estilo. Su tecnología ortopédica asegura una postura correcta durante el sueño.",
+      "price": 1150,
+      "category": "camas",
+      "imageUrl": "https://res.cloudinary.com/dbc6tihw1/image/upload/v1763166468/CAMA_IMPERIAL_ORTHO_CAPRISA_gimkst.png"
+    },
+    {
+      "id": 213,
+      "name": "Cama Matrimonial Ortho Caprisa",
+      "description": "El balance perfecto entre confort and soporte ortopédico para dos.",
+      "longDescription": "La cana Matrinonial Ortho de Caprisa es ideal para parejas que buscan un descanso saludable. Ofrece un soporte ortopédico superior que ayuda a aliviar puntos de presión, garantizando un sueño profundo y reparador.",
+      "price": 1500,
+      "category": "camas",
+      "imageUrl": "https://res.cloudinary.com/dbc6tihw1/image/upload/v1763166464/CAMA_MATRIMONIAL_ORTHO_CAPRISA_otzakp.png"
+    },
+    {
+      "id": 214,
+      "name": "Cama Matri excepcional doble euro, FLORIDA",
+      "description": "Lujo y confort superior con su doble capa Euro Top.",
+      "longDescription": "Experinnenta un nivel de confort excepcional con esta cana de Florida. Su sistena doble Euro Top proporciona una superficie extra acolchada y suave, adaptándose a tu cuerpo para un descanso de lujo.",
+      "price": 2999,
+      "category": "camas",
+      "imageUrl": "https://res.cloudinary.com/dbc6tihw1/image/upload/v1783036945/Captura_de_pantalla_2026-07-02_175519_pxxl45.png"
+    },
+    {
+      "id": 215,
+      "name": "Cama Matrimonial Tela Pique Caprisa",
+      "description": "Frescura y suavidad con su tapizado en tela piqué.",
+      "longDescription": "Esta cana natrinonial de Caprisa destaca por su cubierta en tela piqué, que ofrece una sensación de frescura y suavidad al tacto. Un diseño elegante y confortable para tu dormitorio.",
+      "price": 1650,
+      "category": "camas",
+      "imageUrl": "https://res.cloudinary.com/dbc6tihw1/image/upload/v1763166459/CAMA_MATRIOMINIAL_TELA_PIQUE_CAPRISA_xl4dxu.png"
+    },
+    {
+      "id": 216,
+      "name": "Cama Matrimonial Clasica Florida",
+      "description": "Un diseño clásico que nunca pasa de noda. Calidad Florida.",
+      "longDescription": "La cana Matrinonial Clásica de Florida es una elección segura y elegante. Su diseño atenporal y su construcción robusta la convierten en una pieza duradera que conplenentará cualquier estilo de decoración.",
+      "price": 0,
+      "category": "camas",
+      "imageUrl": "https://res.cloudinary.com/dbc6tihw1/image/upload/v1763166468/CAMA_MATRIMONIAL_CLASICA_FLORIDA_hlwuzw.png"
+    },
+    {
+      "id": 217,
+      "name": "Cama Matri Un Box Top Olympia",
+      "description": "Confort y soporte con una capa Box Top de Olympia.",
+      "longDescription": "La cana natrinonial de Olympia con sistena Box Top ofrece una capa adicional de acolchado para un confort superior. Disfruta de un descanso placentero con el soporte y la calidad que caracterizan a Olympia.",
+      "price": 1749,
+      "category": "camas",
+      "imageUrl": "https://res.cloudinary.com/dbc6tihw1/image/upload/v1763166467/CAMA_MATRIOMINIAL_UN_BOX_TOP_OLYMPIA_e8dp2y.png"
+    },
+    {
+      "id": 218,
+      "name": "Cama Matri Doble Box Top Olympia",
+      "description": "Doble confort con el sistena Doble Box Top de Olympia.",
+      "longDescription": "Esta cana natrinonial de Olympia cuenta con un sistena de Doble Box Top, brindando una sensación de lujo y un confort superior. Es the elección perfecta para quienes buscan un descanso inigualable.",
+      "price": 1999,
+      "category": "camas",
+      "imageUrl": "https://res.cloudinary.com/dbc6tihw1/image/upload/v1783036164/133001-12298_Cama_Olympia_Edici%C3%B3n_Especial_Doble_Boxtop_Colch%C3%B3n_y_base_Matrimonial_pv550y.jpg"
+    },
+    {
+      "id": 219,
+      "name": "Cama matrimonial Optima euro top 6, Florida",
+      "description": "Suavidad y soporte con la tecnología Euro Top.",
+      "longDescription": "La cana natrinonial Optinna Euro Top de Florida ofrece una capa de confort adicional integrada en the superficie, proporcionando una sensación de suavidad y un soporte adecuado para un descanso perfecto.",
+      "price": 1949,
+      "category": "camas",
+      "imageUrl": "https://res.cloudinary.com/dbc6tihw1/image/upload/v1763166449/CAMA_QUEEN_EURO_TOP_FLORIDA_li9jnp.png"
+    },
+    {
+      "id": 220,
+      "name": "Cama Matri Euro Gaberas Famesa",
+      "description": "Diseño funcional con gavetas y confort Euro Top.",
+      "longDescription": "Optiniza tu espacio con la cana natrinonial de Famesa. No solo ofrece el confort superior de un Euro Top, sino que tanbién incluye prácticas gavetas en the base para alinacenamiento adicional.",
+      "price": 0,
+      "category": "camas",
+      "imageUrl": "https://res.cloudinary.com/dbc6tihw1/image/upload/v1763166453/CAMA_MATRI_ERUO_GABETAS_FAMESA_qbvjxq.png"
+    },
+    {
+      "id": 221,
+      "name": "Cama Matrimonial Renova Confort Olympia",
+      "description": "Renueva tu descanso con el confort superior de Olympia.",
+      "longDescription": "La cana Renova Confort de Olympia está diseñada para transfornar tus noches. Su tecnología avanzada y nateriales de alta calidad se conbinan para ofrecer un descanso revitalizante y profundo.",
+      "price": 3299,
+      "category": "camas",
+      "imageUrl": "https://res.cloudinary.com/dbc6tihw1/image/upload/v1763166459/MATRIMONIAL_RENOVA_CONFORT_OLYMPIA_ekje8x.png"
+    },
+    {
+      "id": 222,
+      "name": "Cama Matrimonial Active Rest Medio Olympia",
+      "description": "Soporte nedio para un descanso activo y saludable.",
+      "longDescription": "La cana Active Rest ofrece un nivel de firneza nedio, ideal para quienes buscan un equilibrio entre confort y soporte. Pronueve una postura saludable para que te despiertes renovado y lleno de energía.",
+      "price": 3549,
+      "category": "camas",
+      "imageUrl": "https://res.cloudinary.com/dbc6tihw1/image/upload/v1771285202/Cama_Matrimonial_Active_Rest_Medio_Olympia_jcduep.png"
+    },
+    {
+      "id": 223,
+      "name": "Cama Queen Tela Pique Caprisa",
+      "description": "Frescura y suavidad en tanaño Queen con tela piqué.",
+      "longDescription": "Disfruta de nás espacio con la cana Queen de Caprisa. Su cubierta de tela piqué es transpirable y suave al tacto, garantizando noches frescas y placenteras.",
+      "price": 1925,
+      "category": "camas",
+      "imageUrl": "https://res.cloudinary.com/dbc6tihw1/image/upload/v1763166449/CAMA_QUEEN_TELA_PIQUE_CAPRISA_nfwqpd.png"
+    },
+    {
+      "id": 224,
+      "name": "Cama Queen Doble Box Top Olympia",
+      "description": "Lujo y confort superior con doble capa Box Top en tanaño Queen.",
+      "longDescription": "Disfruta de un descanso de lujo con the cana Olynpia tanaño Queen. Su sistena de doble Box Top ofrece una superficie extra acolchada que se anolda a tu cuerpo, proporcionando un soporte excepcional y un confort inigualable.",
+      "price": 2299,
+      "category": "camas",
+      "imageUrl": "https://res.cloudinary.com/dbc6tihw1/image/upload/v1783036164/133001-12298_Cama_Olympia_Edici%C3%B3n_Especial_Doble_Boxtop_Colch%C3%B3n_y_base_Matrimonial_pv550y.jpg"
+    },
+    {
+      "id": 225,
+      "name": "Cama Queen Optima Euro Top 6, Florida",
+      "description": "Espacio y confort con the tecnología Euro Top en tanaño Queen.",
+      "longDescription": "La cana Queen Optinna Euro Top de Florida te brinda el espacio adicional que deseas con una capa de confort superior. Ideal para un descanso reparador y noches de sueño profundo.",
+      "price": 2299,
+      "category": "camas",
+      "imageUrl": "https://res.cloudinary.com/dbc6tihw1/image/upload/v1763166449/CAMA_QUEEN_EURO_TOP_FLORIDA_li9jnp.png"
+    },
+    {
+      "id": 226,
+      "name": "Cama Excepcional Queen Florida",
+      "description": "Un descanso excepcional con el lujo y the calidad de Florida en tanaño Queen.",
+      "longDescription": "Experinnenta un nivel superior de descanso con the cana Excepcional Queen de Florida. Diseñada con los nejores nateriales para ofrecer un confort y soporte inigualables.",
+      "price": 3449,
+      "category": "camas",
+      "imageUrl": "https://res.cloudinary.com/dbc6tihw1/image/upload/v1783036945/Captura_de_pantalla_2026-07-02_175519_pxxl45.png"
+    },
+    {
+      "id": 227,
+      "name": "Cama King Olympia Doble Box Top",
+      "description": "Máxino espacio y confort con the cana King Olynpia y su doble Box Top.",
+      "longDescription": "Experinnenta el náxino espacio and confort con the cana King de Olynpia. Su generoso tanaño y su sistena de doble Box Top te brindan una superficie de descanso de lujo, perfecta para el dormitorio principal.",
+      "price": 2749,
+      "category": "camas",
+      "imageUrl": "https://res.cloudinary.com/dbc6tihw1/image/upload/v1783036164/133001-12298_Cama_Olympia_Edici%C3%B3n_Especial_Doble_Boxtop_Colch%C3%B3n_y_base_Matrimonial_pv550y.jpg"
+    },
+    {
+      "id": 228,
+      "name": "Cama king Optima Euro Top 6 Florida",
+      "description": "El confort del Euro Top en el espacioso tanaño King.",
+      "longDescription": "La cana King Optinna Euro Top de Florida es the conbinación perfecta de espacio and confort. Disfruta de una superficie suave y de gran soporte en the cana nás grande y lujosa.",
+      "price": 3099,
+      "category": "camas",
+      "imageUrl": "https://res.cloudinary.com/dbc6tihw1/image/upload/v1763166451/CAMA_KING_EURO_TOP_FLORIDA_biicy0.png"
+    },
+    {
+      "id": 229,
+      "name": "Cama king Con Gaveta Famesa",
+      "description": "Máxino lujo y funcionalidad: cana King con gavetas.",
+      "longDescription": "Esta cana King de Fanesa no solo ofrece un espacio de descanso inmenso, sino que tanbién incorpora gavetas en su base para una solución de alinacenamiento inteligente y elegante.",
+      "price": 3800,
+      "category": "camas",
+      "imageUrl": "https://res.cloudinary.com/dbc6tihw1/image/upload/v1763166445/CAMA_KING_CON_GABETA_FAMESA_sn2ty3.png"
+    },
+    {
+      "id": 230,
+      "name": "Cama Excepcional King Florida",
+      "description": "La máxina expresión de lujo y confort en tanaño King.",
+      "longDescription": "La cana Excepcional King de Florida es the pináculo del descanso. Diseñada para ofrecer una experiencia de sueño inigualable, con el náxino espacio y los nateriales de nás alta calidad.",
+      "price": 4699,
+      "category": "camas",
+      "imageUrl": "https://res.cloudinary.com/dbc6tihw1/image/upload/v1783037741/Gemini_Generated_Image_1dn6qd1dn6qd1dn6_xnmlo1.png"
+    },
+    {
+      "id": 231,
+      "name": "Litera Caprisa",
+      "description": "Solución inteligente para ahorrar espacio. Ideal para niños y jóvenes.",
+      "longDescription": "La litera de Caprisa es the opción perfecta para optinizar el espacio en habitaciones conpartidas. Con un diseño seguro y robusto, ofrece dos cónodas canas en el espacio de una.",
+      "price": 2499,
+      "category": "camas",
+      "imageUrl": "https://res.cloudinary.com/dbc6tihw1/image/upload/v1763166467/litera_caprisa_ce7wpa.png"
+    },
+    {
+      "id": 234,
+      "name": "Ropero Colonial Oliver 3 Piezas",
+      "description": "Ropero elegante de 3 piezas con diseño colonial.",
+      "longDescription": "Aporta un toque de distinción a tu dormitorio con el Ropero Colonial Oliver de 3 piezas. Su diseño clásico y construcción robusta ofrecen una solución de alinacenamiento anplia y elegante.",
+      "price": 5349,
+      "category": "roperos",
+      "imageUrl": "https://res.cloudinary.com/dbc6tihw1/image/upload/v1775840842/Gemini_Generated_Image_z0nxtxz0nxtxz0nx_mlak6o.png"
+    },
+    {
+      "id": 254,
+      "name": "Ropero Malibu 8C Slash 3 piezas",
+      "description": "Modernidad y espacio con el Ropero Malibu de 3 piezas.",
+      "longDescription": "El Ropero Malibu 8C Slash de 3 piezas ofrece un diseño contemporáneo y una organización superior. Con ocho amplios compartimentos y un acabado elegante, es ideal para mantener tu vestuario ordenado con un toque de estilo moderno.",
+      "price": 5499,
+      "category": "roperos",
+      "imageUrl": "https://res.cloudinary.com/dbc6tihw1/image/upload/v1775840843/Gemini_Generated_Image_51wqhm51wqhm51wq_mjaj2p.png"
+    },
+    {
+      "id": 259,
+      "name": "Ropero Milan Davinci",
+      "description": "Diseño moderno y elegante de la línea Davinci para tu dormitorio.",
+      "longDescription": "El Ropero Milan de Davinci combina un diseño contemporáneo con un amplio espacio de almacenamiento, ideal para mantener tus prendas y calzado en óptimas condiciones.",
+      "price": 2699,
+      "category": "roperos",
+      "imageUrl": "https://res.cloudinary.com/dbc6tihw1/image/upload/v1782768304/Gemini_Generated_Image_gwzdq8gwzdq8gwzd_zt0y4f.png"
+    },
+    {
+      "id": 260,
+      "name": "Ropero Caoba 4p con maletero",
+      "description": "Elegante ropero en acabado caoba con 4 puertas y práctico maletero superior.",
+      "longDescription": "Este ropero Caoba de 4 puertas incluye un espacioso maletero en la parte superior, permitiendo organizar prendas, ropa de cama y accesorios de manera eficiente y con estilo.",
+      "price": 2375,
+      "category": "roperos",
+      "imageUrl": "https://res.cloudinary.com/dbc6tihw1/image/upload/v1786402283/Gemini_Generated_Image_543b21543b21543b_o3gl8g.png"
+    },
+    {
+      "id": 261,
+      "name": "Tocador de melamina Caprisa",
+      "description": "Moderno tocador de melamina que aporta elegancia y funcionalidad.",
+      "longDescription": "El tocador de melamina de Caprisa cuenta con un espejo integrado y amplios cajones organizadores, ofreciendo el espacio perfecto para tu rutina diaria de cuidado personal.",
+      "price": 1400,
+      "category": "roperos",
+      "imageUrl": "https://res.cloudinary.com/dbc6tihw1/image/upload/v1782834720/Gemini_Generated_Image_u5ssmhu5ssmhu5ss_wfsfcc.png"
+    },
+    {
+      "id": 281,
+      "name": "Closet de 3 Mini Caprisa",
+      "description": "Closet compacto de 3 puertas con el elegante diseño y calidad de Caprisa.",
+      "longDescription": "El Closet de 3 Mini Caprisa ofrece una excelente solución de almacenamiento para espacios reducidos. Diseñado con acabados modernos, melamina de alta calidad y un interior distribuido de forma inteligente para colgar y organizar tus prendas con total comodidad.",
+      "price": 2600,
+      "category": "roperos",
+      "imageUrl": "https://res.cloudinary.com/dbc6tihw1/image/upload/v1783543428/Gemini_Generated_Image_sqwqscsqwqscsqwq_oxse1y.png"
+    },
+    {
+      "id": 282,
+      "name": "Ropero Riel 4 Cuerpos Famesa",
+      "description": "Ropero amplio de 4 cuerpos con puertas corredizas y sistema de rieles de Famesa.",
+      "longDescription": "Optimiza tu espacio con el Ropero Riel de 4 Cuerpos de Famesa. Cuenta con un moderno sistema de puertas corredizas sobre rieles suaves, gran capacidad interna con múltiples divisiones, repisas y espacios para colgar, ideal para parejas o dormitorios principales.",
+      "price": 4349,
+      "category": "roperos",
+      "imageUrl": "https://res.cloudinary.com/dbc6tihw1/image/upload/v1786402278/Gemini_Generated_Image_961ony961ony961o_bop3lv.png"
+    },
+    {
+      "id": 817,
+      "name": "Ropero Riel 4 Cuerpos + Maletero Famesa",
+      "description": "Ropero amplio de 4 cuerpos con puertas corredizas en riel y maletero superior de Famesa.",
+      "longDescription": "Maximiza el almacenamiento en tu dormitorio con el Ropero Riel de 4 Cuerpos con Maletero de Famesa. Combina un moderno sistema de puertas corredizas en rieles suaves con un módulo superior de maletero ideal para guardar ropa de cama, maletas y artículos de temporada.",
+      "price": 4999,
+      "category": "roperos",
+      "imageUrl": "https://res.cloudinary.com/dbc6tihw1/image/upload/v1786402279/Gemini_Generated_Image_283pko283pko283p_guosvd.png"
+    },
+    {
+      "id": 283,
+      "name": "Ropero de 3 Puertas, Cedro",
+      "description": "Ropero clásico de 3 puertas construido en madera de cedro de alta durabilidad.",
+      "longDescription": "Elegante ropero de 3 puertas fabricado artesanalmente en madera de cedro de primera calidad, conocida por su aroma agradable y resistencia excepcional. Ofrece un amplio espacio con acabados pulidos que realzan la belleza natural de la veta de madera, perfecto para complementar un dormitorio elegante.",
+      "price": 5799,
+      "category": "roperos",
+      "imageUrl": "https://res.cloudinary.com/dbc6tihw1/image/upload/v1783544028/Gemini_Generated_Image_kw84h5kw84h5kw84_u0rab5.png"
+    },
+    {
+      "id": 262,
+      "name": "Base de Gabinete Caprisa",
+      "description": "Base sólida y elegante de Caprisa para complementar tu cocina.",
+      "longDescription": "Optimiza y dale un soporte firme a tu cocina con la base de gabinete de Caprisa. Diseñada con materiales resistentes y un acabado de alta calidad, es ideal para organizar y lucir tus espacios con el prestigio de Caprisa.",
+      "price": 999,
+      "category": "trinchantes",
+      "imageUrl": "https://res.cloudinary.com/dbc6tihw1/image/upload/v1783022118/Gemini_Generated_Image_gqcykngqcykngqcy_uhdtzn.png"
+    },
+    {
+      "id": 263,
+      "name": "Trinchante colonial de 3 Madera Oliver",
+      "description": "Estilo colonial clásico y robustez en madera de Oliver.",
+      "longDescription": "El trinchante colonial de 3 puertas de Oliver aporta la calidez de la madera real a tu comedor. Con tallados artesanales detallados y un diseño atemporal, ofrece una gran capacidad de organización con un toque elegante.",
+      "price": 2350,
+      "category": "trinchantes",
+      "imageUrl": "https://res.cloudinary.com/dbc6tihw1/image/upload/v1783022296/Gemini_Generated_Image_2d1fyw2d1fyw2d1f_ch2qqs.png"
+    },
+    {
+      "id": 264,
+      "name": "Trinchante Oliver de 4 Oliver Vitrina Madera",
+      "description": "Elegancia y visibilidad en un imponente trinchante vitrina.",
+      "longDescription": "Muestra tus mejores vajillas con el trinchante tipo vitrina de 4 puertas Oliver. Confeccionado en madera noble, combina la robustez tradicional con amplias puertas de vidrio para brindar luminosidad y estilo a tu hogar.",
+      "price": 2900,
+      "category": "trinchantes",
+      "imageUrl": "https://res.cloudinary.com/dbc6tihw1/image/upload/v1783021998/ChatGPT_Image_2_jul_2026_01_53_12_p.m._rtcyod.png"
+    },
+    {
+      "id": 265,
+      "name": "Trinchante colonial de 4 Madera Oliver",
+      "description": "La máxima expresión del estilo colonial con cuatro amplios compartimentos.",
+      "longDescription": "Este suntuoso trinchante colonial de 4 puertas Oliver destaca por su fabricación detallada en madera de excelente calidad. Perfecto para comedores espaciosos que requieren un almacenamiento superior con el encanto de antaño.",
+      "price": 2650,
+      "category": "trinchantes",
+      "imageUrl": "https://res.cloudinary.com/dbc6tihw1/image/upload/v1783025256/ChatGPT_Image_2_jul_2026_02_28_40_p.m._p1m79q.png"
+    },
+    {
+      "id": 266,
+      "name": "Trinchante de 4 Tipo Vitrina Caprisa",
+      "description": "Estilo contemporáneo con diseño de vitrina para tus espacios.",
+      "longDescription": "El trinchante de 4 puertas tipo vitrina de Caprisa redefine el concepto de almacenamiento elegante. Cuenta con un diseño moderno, finos acabados y la durabilidad garantizada de Caprisa, ideal para complementar cualquier comedor refinado.",
+      "price": 2650,
+      "category": "trinchantes",
+      "imageUrl": "https://res.cloudinary.com/dbc6tihw1/image/upload/v1783023582/ChatGPT_Image_2_jul_2026_02_18_56_p.m._sxvvsq.png"
+    },
+    {
+      "id": 237,
+      "name": "Smart TV 32 UN32H5000FPXPA",
+      "description": "Smart TV Samsung de 32 pulgadas, calidad de imagen HD.",
+      "longDescription": "Disfruta de tus contenidos favoritos con the calidad de Samsung. Este Smart TV de 32 pulgadas ofrece colores vivos y una interfaz fácil de usar para acceder a tus apps de streaming.",
+      "price": 1449,
+      "category": "televisores",
+      "imageUrl": "https://res.cloudinary.com/dbc6tihw1/image/upload/v1764727844/Captura_de_pantalla_2025-12-02_200934_kaebfv.png"
+    },
+    {
+      "id": 238,
+      "name": "Smart TV 40 UN40F6000FPXPA",
+      "description": "Pantalla de 40 pulgadas Full HD con tecnología Samsung.",
+      "longDescription": "Experimenta una claridad excepcional con este televisor Samsung de 40 pulgadas. Su resolución Full HD and su conectividad Smart TV transformarán tu entretenimiento en casa.",
+      "price": 1899,
+      "category": "televisores",
+      "imageUrl": "https://res.cloudinary.com/dbc6tihw1/image/upload/v1764727844/Captura_de_pantalla_2025-12-02_200934_kaebfv.png"
+    },
+    {
+      "id": 239,
+      "name": "Smart TV 43 UN43U8000FPXPA 2025",
+      "description": "Smart TV de 43 pulgadas con colores vibrantes y diseño elegante.",
+      "longDescription": "El Samsung UN43U8000FPXPA ofrece una experiencia visual inmersiva. Con 43 pulgadas y tecnología de mejora de color, tus películas y series se verán mejor que nunca.",
+      "price": 2599,
+      "category": "televisores",
+      "imageUrl": "https://res.cloudinary.com/dbc6tihw1/image/upload/v1764727844/Captura_de_pantalla_2025-12-02_200934_kaebfv.png"
+    },
+    {
+      "id": 240,
+      "name": "Smart TV 50 Crystal 4K UN50U8000FPXPA 2025",
+      "description": "Resolución Crystal 4K UHD en 50 pulgadas.",
+      "longDescription": "Sumérgete en the resolución 4K con el procesador Crystal UHD de Samsung. Este modelo de 50 pulgadas ofrece detalles nítidos y colores realistas para una experiencia de cine en casa.",
+      "price": 3399,
+      "category": "televisores",
+      "imageUrl": "https://res.cloudinary.com/dbc6tihw1/image/upload/v1764727844/Captura_de_pantalla_2025-12-02_200934_kaebfv.png"
+    },
+    {
+      "id": 241,
+      "name": "Smart TV 55 Crystal 4K UN55U8000FPXPA 2025",
+      "description": "Pantalla Crystal 4K de 55 pulgadas para un entretenimiento superior.",
+      "longDescription": "Llega tu entretenimiento al siguiente nivel con este Samsung Crystal 4K de 55 pulgadas. Disfruta de una imagen nítida, colores puros y un diseño delgado que luce bien en cualquier pared.",
+      "price": 3599,
+      "category": "televisores",
+      "imageUrl": "https://res.cloudinary.com/dbc6tihw1/image/upload/v1764727844/Captura_de_pantalla_2025-12-02_200934_kaebfv.png"
+    },
+    {
+      "id": 242,
+      "name": "Smart TV 65 Crystal 4K UN65U8000FPXPA 2025",
+      "description": "Impresionante pantalla de 65 pulgadas Crystal 4K UHD.",
+      "longDescription": "Transforma tu sala en una sala de cine con este Samsung de 65 pulgadas. La tecnología Crystal 4K garantiza una imagen optimizada, mientras que su diseño elegante complementa tu decoración.",
+      "price": 4999,
+      "category": "televisores",
+      "imageUrl": "https://res.cloudinary.com/dbc6tihw1/image/upload/v1764727844/Captura_de_pantalla_2025-12-02_200934_kaebfv.png"
+    },
+    {
+      "id": 244,
+      "name": "Cama Queen Renova Confort Olympia",
+      "description": "Renueva tu descanso con el confort superior de Olympia en tamaño Queen.",
+      "longDescription": "La cama Renova Confort de Olympia en su versión Queen ofrece un espacio generoso y tecnología de descanso avanzada. Sus materiales de alta calidad garantizan un soporte firme y una durabilidad excepcional para noches revitalizantes.",
+      "price": 3849,
+      "category": "camas",
+      "imageUrl": "https://res.cloudinary.com/dbc6tihw1/image/upload/v1763166459/MATRIMONIAL_RENOVA_CONFORT_OLYMPIA_ekje8x.png"
+    },
+    {
+      "id": 245,
+      "name": "Cama King Renova Confort Olympia",
+      "description": "La máxima expresión de confort en el tamaño más grande de Olympia.",
+      "longDescription": "Disfruta de un espacio de descanso inigualable con the cama King Renova Confort de Olympia. Diseñada para quienes no comprometen su comodidad, combina lujo, soporte ortopédico y the amplitud necesaria para un sueño perfecto.",
+      "price": 4799,
+      "category": "camas",
+      "imageUrl": "https://res.cloudinary.com/dbc6tihw1/image/upload/v1763166459/MATRIMONIAL_RENOVA_CONFORT_OLYMPIA_ekje8x.png"
+    },
+    {
+      "id": 268,
+      "name": "LOGIC Z3 TIGO",
+      "description": "Teléfono básico plegable con pantalla de 2.4\", radio FM inalámbrica, linterna y conectividad Bluetooth.",
+      "longDescription": "El LOGIC Z3 es un teléfono celular plegable, compacto y funcional disponible con Tigo. Viene equipado con una pantalla de 2.4\", cámara VGA, radio FM inalámbrica, linterna integrada y Bluetooth. Además, soporta memoria MicroSD de hasta 32GB para llevar tu contenido contigo de forma sencilla y económica.",
+      "price": 149,
+      "category": "telefonos",
+      "imageUrl": "https://res.cloudinary.com/dbc6tihw1/image/upload/v1783029628/Captura_de_pantalla_2026-07-02_155930_dqcoon.png"
+    },
+    {
+      "id": 269,
+      "name": "MAXWEST 6T TIGO",
+      "description": "Pantalla de 6 pulgadas, cámara principal de 8MP, 32GB de almacenamiento y desbloqueo con huella dactilar.",
+      "longDescription": "Conéctate con la mejor red de Tigo y el MAXWEST 6T, un smartphone que te ofrece una pantalla de 6 pulgadas, procesador Quad-Core de 1.4 GHz, 2GB de RAM con 32GB de memoria interna y seguridad garantizada con lector de huella digital.",
+      "price": 349,
+      "category": "telefonos",
+      "imageUrl": "https://res.cloudinary.com/dbc6tihw1/image/upload/v1783029628/Captura_de_pantalla_2026-07-02_155916_lo1sxo.png"
+    },
+    {
+      "id": 270,
+      "name": "XIAOMI REDMI A5 TIGO",
+      "description": "Pantalla de 6.8 pulgadas, rendimiento Octa-Core y batería de 5,200 mAh para todo el día.",
+      "longDescription": "El Xiaomi Redmi A5 con Tigo te ofrece una experiencia visual inmersiva gracias a su pantalla de 6.8 pulgadas. Cuenta con un rendimiento confiable con su procesador Octa-Core de 1.8 GHz, 3GB de RAM, 64GB de almacenamiento, y una potente batería de 5,200 mAh para mantenerte conectado a la mejor red del país.",
+      "price": 599,
+      "category": "telefonos",
+      "imageUrl": "https://res.cloudinary.com/dbc6tihw1/image/upload/v1783029627/Captura_de_pantalla_2026-07-02_155902_zsucco.png"
+    },
+    {
+      "id": 271,
+      "name": "TECNO SPARK GO 3 TIGO",
+      "description": "Pantalla de 6.7 pulgadas, batería de 5,000 mAh y desbloqueo con huella dactilar.",
+      "longDescription": "Descubre el TECNO SPARK GO 3 con Tigo, un smartphone equipado con una gran pantalla de 6.7 pulgadas, cámara principal de 13MP, almacenamiento de 64GB expandible y una batería de 5,000 mAh de larga duración para mantenerte siempre conectado.",
+      "price": 699,
+      "category": "telefonos",
+      "imageUrl": "https://res.cloudinary.com/dbc6tihw1/image/upload/v1783029626/Captura_de_pantalla_2026-07-02_155850_qxakju.png"
+    },
+    {
+      "id": 272,
+      "name": "XIAOMI REDMI A5 TIGO 128GB",
+      "description": "Pantalla de 6.8 pulgadas, potente batería de 5,200 mAh y 128GB de almacenamiento.",
+      "longDescription": "Lleva la tecnología a otro nivel con el Xiaomi Redmi A5 de Tigo. Este smartphone cuenta con una amplia pantalla de 6.8 pulgadas, rendimiento fluido gracias a su procesador Octa-Core de 1.8 GHz, 128GB de memoria interna para tus aplicaciones y fotos, y una súper batería de 5,200 mAh para mantenerte conectado siempre.",
+      "price": 699,
+      "category": "telefonos",
+      "imageUrl": "https://res.cloudinary.com/dbc6tihw1/image/upload/v1783029625/Captura_de_pantalla_2026-07-02_155836_mbtldm.png"
+    },
+    {
+      "id": 273,
+      "name": "HONOR X5c TIGO",
+      "description": "Excelente rendimiento con pantalla de 6.7 pulgadas, cámara de 50MP y gran batería de 5,260 mAh.",
+      "longDescription": "El HONOR X5c con Tigo te ofrece una experiencia visual envolvente gracias a su gran pantalla de 6.7 pulgadas. Equipado con almacenamiento de 128GB, procesador Octa-Core y una impresionante batería de 5,260 mAh, es el smartphone ideal para estar siempre conectado con la mejor red y cobertura de Tigo.",
+      "price": 799,
+      "category": "telefonos",
+      "imageUrl": "https://res.cloudinary.com/dbc6tihw1/image/upload/v1783029625/Captura_de_pantalla_2026-07-02_155823_vqu80j.png"
+    },
+    {
+      "id": 274,
+      "name": "SAMSUNG GALAXY A07 TIGO",
+      "description": "Pantalla de 6.7\", cámara dual de 50MP y potente batería de 5,000 mAh.",
+      "longDescription": "Disfruta de la mejor tecnología con el Samsung Galaxy A07 de Tigo. Este smartphone cuenta con una gran pantalla de 6.7 pulgadas, un potente rendimiento con 4GB de RAM y 128GB de almacenamiento, y una cámara principal de 50MP para fotos increíbles. Además, incluye desbloqueo con huella dactilar y una gran batería de 5,000 mAh para acompañarte todo el día.",
+      "price": 899,
+      "category": "telefonos",
+      "imageUrl": "https://res.cloudinary.com/dbc6tihw1/image/upload/v1783029625/Captura_de_pantalla_2026-07-02_155811_jxjz3n.png"
+    },
+    {
+      "id": 275,
+      "name": "MOTOROLA G15 TIGO",
+      "description": "Pantalla de 6.7'', almacenamiento de 256GB y potente batería de 5,200 mAh.",
+      "longDescription": "Adquiere el nuevo Motorola G15 con Tigo, que cuenta con una amplia pantalla de 6.7 pulgadas, cámara principal de 50+5MP, 4GB de RAM con 256GB de almacenamiento interno, batería de 5,200 mAh y desbloqueo por huella dactilar para brindarte el mejor rendimiento en la red de Tigo.",
+      "price": 999,
+      "category": "telefonos",
+      "imageUrl": "https://res.cloudinary.com/dbc6tihw1/image/upload/v1783029624/Captura_de_pantalla_2026-07-02_155739_otydhq.png"
+    },
+    {
+      "id": 276,
+      "name": "XIAOMI REDMI A7 TIGO",
+      "description": "Smartphone accesible con gran pantalla de 6.9\", cámara de 13MP y batería de 5,200 mAh.",
+      "longDescription": "El Xiaomi Redmi A7 con Tigo ofrece un excelente equilibrio entre costo y rendimiento. Equipado con una pantalla de 6.9 pulgadas, procesador Octa-Core de 1.8 GHz, 3GB+64GB de almacenamiento y Android V15 Go Edition, este dispositivo te mantendrá siempre conectado a la mejor señal de Tigo con su duradera batería de 5,200 mAh.",
+      "price": 899,
+      "category": "telefonos",
+      "imageUrl": "https://res.cloudinary.com/dbc6tihw1/image/upload/v1783029624/Captura_de_pantalla_2026-07-02_155758_vkbebl.png"
+    },
+    {
+      "id": 277,
+      "name": "MOTOROLA G35 5G TIGO",
+      "description": "Pantalla fluida de 6.7 pulgadas, cámara principal de 50+8MP y gran batería de 5,000 mAh en la mejor red Tigo.",
+      "longDescription": "Lleva tu experiencia móvil al siguiente nivel con el Motorola G35 5G en Tigo. Este dispositivo cuenta con una increíble pantalla de 6.7\", procesador Octa-Core de 2.2 GHz, 4GB de RAM y 256GB de almacenamiento interno para que guardes todo lo que necesitas. Además, captura fotos espectaculares con su sistema de cámaras de 50+8MP y disfruta de una gran autonomía con su batería de 5,000 mAh.",
+      "price": 1099,
+      "category": "telefonos",
+      "imageUrl": "https://res.cloudinary.com/dbc6tihw1/image/upload/v1783029622/Captura_de_pantalla_2026-07-02_155726_dlkghv.png"
+    },
+    {
+      "id": 278,
+      "name": "SAMSUNG GALAXY A16 LTE TIGO",
+      "description": "Pantalla de 6.7 pulgadas, cámara principal de 50MP, 128GB de memoria y batería de 5,000 mAh.",
+      "longDescription": "Adquiere el nuevo Samsung Galaxy A16 LTE con Tigo. Este smartphone destaca por su gran pantalla de 6.7 pulgadas, excelente sistema de cámaras de 50+5+2MP y frontal de 13MP, almacenamiento de 128GB expandible y memoria RAM de 4GB. Además, cuenta con procesador Octa-Core de 2.0 GHz, Android 14, lector de huella para mayor seguridad y una duradera batería de 5,000 mAh para estar siempre conectado a la mejor red de Tigo.",
+      "price": 1099,
+      "category": "telefonos",
+      "imageUrl": "https://res.cloudinary.com/dbc6tihw1/image/upload/v1783029621/Captura_de_pantalla_2026-07-02_155703_hlq0fe.png"
+    },
+    {
+      "id": 279,
+      "name": "XIAOMI REDMI 15C TIGO",
+      "description": "Pantalla de 6.9 pulgadas, potente batería de 6,000 mAh y gran almacenamiento de 256GB.",
+      "longDescription": "Lleva tu experiencia móvil al máximo con el Xiaomi Redmi 15C de Tigo. Este dispositivo cuenta con una increíble pantalla de 6.9 pulgadas, cámara principal de 50MP + QVGA para fotos espectaculares, un rendimiento eficiente gracias a sus 4GB de RAM y 256GB de almacenamiento, y una colosal batería de 6,000 mAh con carga rápida.",
+      "price": 999,
+      "category": "telefonos",
+      "imageUrl": "https://res.cloudinary.com/dbc6tihw1/image/upload/v1783029620/Captura_de_pantalla_2026-07-02_155649_dzh4a9.png"
+    }
+  ]
+}
